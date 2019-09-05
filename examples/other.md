@@ -46,7 +46,7 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     <tr>
         <th></th>
         <th>color</th>
-        <th>black</th>
+        <!-- <th>black</th> -->
         <th>white</th>
     </tr>
     <tr>
@@ -69,7 +69,7 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     <tr>
         <th></th>
         <th>color</th>
-        <th>black</th>
+        <!-- <th>black</th> -->
         <th>white</th>
     </tr>
     <tr>
@@ -92,7 +92,7 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     <tr>
         <th></th>
         <th>color</th>
-        <th>black</th>
+        <!-- <th>black</th> -->
         <th>white</th>
     </tr>
     <tr>
@@ -115,7 +115,7 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     <tr>
         <th></th>
         <th>color</th>
-        <th>black</th>
+        <!-- <th>black</th> -->
         <th>white</th>
     </tr>
     <tr>
