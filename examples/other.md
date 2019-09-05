@@ -1,0 +1,133 @@
+# Other Open Mainframe Project Logos
+
+*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
+
+## Open Mainframe Project Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>PNG</th>
+        <td><img src="/other/openmainframeproject/openmainframeproject-color.png" width="200"></td>
+        <td><img src="/other/openmainframeproject/openmainframeproject-black.png" width="200"></td>
+        <td><img src="/other/openmainframeproject/openmainframeproject-white.png" width="200"></td>
+    </tr>
+    <tr>
+        <th>SVG</th>
+        <td><img src="/other/openmainframeproject/openmainframeproject-color.svg" width="200"></td>
+        <td><img src="/other/openmainframeproject/openmainframeproject-black.svg" width="200"></td>
+        <td><img src="/other/openmainframeproject/openmainframeproject-white.svg" width="200"></td>
+    </tr>
+</table>
+
+<!-- ## ODPi Member Logos
+
+<table>
+    <tr>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <td><img src="/other/odpi-member/odpi-member.png" width="200"></td>
+        <td><img src="/other/odpi-member/odpi-member.svg" width="200"></td>
+    </tr>
+</table> -->
+
+## Zowe Conformant Logos
+
+The Zowe Conformant marks are only available for use with [conformant](https://www.openmainframeproject.org/projects/zowe/conformance) implementations and must comply with the [brand guidelines](https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide).
+
+<table>
+    <tr>
+        <th></th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>PNG</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-white.png" width="200"></td>
+    </tr>
+    <tr>
+        <th>SVG</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-color.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-black.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### API Mediation Layer 2019
+
+<table>
+    <tr>
+        <th></th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>PNG</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-white.png" width="200"></td>
+    </tr>
+    <tr>
+        <th>SVG</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-color.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-black.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### App Framework 2019
+
+<table>
+    <tr>
+        <th></th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>PNG</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-white.png" width="200"></td>
+    </tr>
+    <tr>
+        <th>SVG</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-color.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### CLI 2019
+
+<table>
+    <tr>
+        <th></th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>PNG</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-white.png" width="200"></td>
+    </tr>
+    <tr>
+        <th>SVG</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-color.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-black.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-white.svg" width="200"></td>
+    </tr>
+</table>
