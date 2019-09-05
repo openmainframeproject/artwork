@@ -9,7 +9,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Mentorship](examples/graduated.md#mentorship-logos)
   * [Zowe](examples/graduated.md#zowe-logos)
 * [Incubating Projects](examples/incubating.md)
-  * [Atom language syntax highlighting for z/VM](examples/incubating.md)
+  * [Atom language syntax highlighting for z/VM](examples/incubating.md#atom-language-syntax-highlighting-for-zvm-logos)
   * [Feilong](examples/incubating.md#feilong)
   * [TerseDecompress](examples/incubating.md#tersedecompress)
   * [Zorow](examples/incubating.md#zorow)
