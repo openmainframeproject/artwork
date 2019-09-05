@@ -51,15 +51,15 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     </tr>
     <tr>
         <th>PNG</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-color.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-black.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-color.png" width="200"></td>
+        <!-- <td><img src="/other/zowe-conformant/zowe-conformant-general-black.png" width="200"></td> -->
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-white.png" width="200"></td>
     </tr>
     <tr>
         <th>SVG</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-color.svg" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-black.svg" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-white.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-color.svg" width="200"></td>
+        <!-- <td><img src="/other/zowe-conformant/zowe-conformant-general-black.svg" width="200"></td> -->
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-white.svg" width="200"></td>
     </tr>
 </table>
 
@@ -75,13 +75,13 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     <tr>
         <th>PNG</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-color.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-black.png" width="200"></td>
+        <!-- <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-black.png" width="200"></td> -->
         <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-white.png" width="200"></td>
     </tr>
     <tr>
         <th>SVG</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-color.svg" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-black.svg" width="200"></td>
+        <!-- <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-black.svg" width="200"></td> -->
         <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-white.svg" width="200"></td>
     </tr>
 </table>
@@ -98,13 +98,13 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     <tr>
         <th>PNG</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-color.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.png" width="200"></td>
+        <!-- <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.png" width="200"></td> -->
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-white.png" width="200"></td>
     </tr>
     <tr>
         <th>SVG</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-color.svg" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.svg" width="200"></td>
+        <!-- <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.svg" width="200"></td> -->
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-white.svg" width="200"></td>
     </tr>
 </table>
@@ -121,13 +121,13 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     <tr>
         <th>PNG</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-color.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-black.png" width="200"></td>
+        <!-- <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-black.png" width="200"></td> -->
         <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-white.png" width="200"></td>
     </tr>
     <tr>
         <th>SVG</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-color.svg" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-black.svg" width="200"></td>
+        <!-- <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-black.svg" width="200"></td> -->
         <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-white.svg" width="200"></td>
     </tr>
 </table>
