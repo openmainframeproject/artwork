@@ -4,10 +4,10 @@ In this repo, we have artwork in standard formats for the Open Mainframe Project
 
 With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
 
-* [Graduated Projects](examples/graduated.md)
-  * [ADE](examples/graduated.md#ade-logos)
-  * [Mentorship](examples/graduated.md#mentorship-logos)
-  * [Zowe](examples/graduated.md#zowe-logos)
+* [Active Projects](examples/active.md)
+  * [ADE](examples/active.md#ade-logos)
+  * [Mentorship](examples/active.md#mentorship-logos)
+  * [Zowe](examples/active.md#zowe-logos)
 * [Incubating Projects](examples/incubating.md)
   * [Atom language syntax highlighting for z/VM](examples/incubating.md#atom-language-syntax-highlighting-for-zvm-logos)
   * [Feilong](examples/incubating.md#feilong)
