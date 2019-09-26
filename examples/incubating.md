@@ -2,6 +2,29 @@
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
+## Ambitus Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>PNG</th>
+        <td><img src="/projects/ambitus/ambitus-color.png" width="200"></td>
+        <td><img src="/projects/ambitus/ambitus-black.png" width="200"></td>
+        <td><img src="/projects/ambitus/ambitus-white.png" width="200"></td>
+    </tr>
+    <tr>
+        <th>SVG</th>
+        <td><img src="/projects/ambitus/ambitus-color.svg" width="200"></td>
+        <td><img src="/projects/ambitus/ambitus-black.svg" width="200"></td>
+        <td><img src="/projects/ambitus/ambitus-white.svg" width="200"></td>
+    </tr>
+</table>
+
 ## Atom language syntax highlighting for z/VM Logos
 
 <table>
