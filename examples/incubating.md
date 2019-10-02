@@ -112,17 +112,17 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/ambitus/zorow-color.png" width="200"></td>
-        <td><img src="/projects/ambitus/zorow-color.svg" width="200"></td>
+        <td><img src="/projects/zorow/zorow-color.png" width="200"></td>
+        <td><img src="/projects/zorow/zorow-color.svg" width="200"></td>
     </tr>
     <!-- <tr>
         <th>black</th>
-        <td><img src="/projects/ambitus/zorow-black.png" width="200"></td>
-        <td><img src="/projects/ambitus/zorow-black.svg" width="200"></td>
+        <td><img src="/projects/zorow/zorow-black.png" width="200"></td>
+        <td><img src="/projects/zorow/zorow-black.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/ambitus/zorow-white.png" width="200"></td>
-        <td><img src="/projects/ambitus/zorow-white.svg" width="200"></td>
+        <td><img src="/projects/zorow/zorow-white.png" width="200"></td>
+        <td><img src="/projects/zorow/zorow-white.svg" width="200"></td>
     </tr> -->
 </table>
