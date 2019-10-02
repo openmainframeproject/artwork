@@ -12,12 +12,12 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Ambitus](examples/incubating.md#ambitus-logos)
   * [Atom language syntax highlighting for z/VM](examples/incubating.md#atom-language-syntax-highlighting-for-zvm-logos)
   * [Feilong](examples/incubating.md#feilong)
-  * [TerseDecompress](examples/incubating.md#tersedecompress)
-  * [Zorow](examples/incubating.md#zorow)
+  * [TerseDecompress](examples/incubating.md#tersedecompress-logos)
+  * [Zorow](examples/incubating.md#zorow-logos)
 * [Other Open Mainframe Project Logos](examples/other.md)
   * [Open Mainframe Project](examples/other.md#open-mainframe-project-logos)
   * [Open Mainframe Project Member](examples/other.md#open-mainframe-project-member-logos)
-  * [Zowe Conformant](examples/other.md#zowe-conformant)
+  * [Zowe Conformant](examples/other.md#zowe-conformant-logos)
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at https://github.com/openmainframeproject/artwork/blob/master/LICENSE.md.
 
