@@ -11,20 +11,20 @@
         <th>SVG</th>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="/projects/ade/ade-white.png" width="200"></td>
-        <td><img src="/projects/ade/ade-white.svg" width="200"></td>
-    </tr>
-    <tr>
         <th>color</th>
         <td><img src="/projects/ade/ade-color.png" width="200"></td>
         <td><img src="/projects/ade/ade-color.svg" width="200"></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/ade/ade-black.png" width="200"></td>
         <td><img src="/projects/ade/ade-black.svg" width="200"></td>
-    </tr> -->
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/ade/ade-white.png" width="200"></td>
+        <td><img src="/projects/ade/ade-white.svg" width="200"></td>
+    </tr>
 </table>
 
 ## Mentorship Logos
@@ -36,20 +36,20 @@
         <th>SVG</th>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="/projects/mentorship/mentorship-white.png" width="200"></td>
-        <td><img src="/projects/mentorship/mentorship-white.svg" width="200"></td>
-    </tr>
-    <tr>
         <th>color</th>
         <td><img src="/projects/mentorship/mentorship-color.png" width="200"></td>
         <td><img src="/projects/mentorship/mentorship-color.svg" width="200"></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/mentorship/mentorship-black.png" width="200"></td>
         <td><img src="/projects/mentorship/mentorship-black.svg" width="200"></td>
-    </tr> -->
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/mentorship/mentorship-white.png" width="200"></td>
+        <td><img src="/projects/mentorship/mentorship-white.svg" width="200"></td>
+    </tr>
 </table>
 
 ## Zowe Logos
@@ -65,7 +65,7 @@
         <td><img src="/projects/zowe/zowe-color.png" width="200"></td>
         <td><img src="/projects/zowe/zowe-color.svg" width="200"></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/zowe/zowe-black.png" width="200"></td>
         <td><img src="/projects/zowe/zowe-black.svg" width="200"></td>
@@ -74,5 +74,5 @@
         <th>white</th>
         <td><img src="/projects/zowe/zowe-white.png" width="200"></td>
         <td><img src="/projects/zowe/zowe-white.svg" width="200"></td>
-    </tr> -->
+    </tr>
 </table>

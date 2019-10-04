@@ -36,20 +36,20 @@
         <th>SVG</th>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="/projects/atom/atom-white.png" width="200"></td>
-        <td><img src="/projects/atom/atom-white.svg" width="200"></td>
-    </tr>
-    <tr>
         <th>color</th>
         <td><img src="/projects/atom/atom-color.png" width="200"></td>
         <td><img src="/projects/atom/atom-color.svg" width="200"></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/atom/atom-black.png" width="200"></td>
         <td><img src="/projects/atom/atom-black.svg" width="200"></td>
-    </tr> -->
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/atom/atom-white.png" width="200"></td>
+        <td><img src="/projects/atom/atom-white.svg" width="200"></td>
+    </tr>
 </table>
 
 ## Feilong Logos
@@ -65,7 +65,7 @@
         <td><img src="/projects/feilong/feilong-color.png" width="200"></td>
         <td><img src="/projects/feilong/feilong-color.svg" width="200"></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/feilong/feilong-black.png" width="200"></td>
         <td><img src="/projects/feilong/feilong-black.svg" width="200"></td>
@@ -74,7 +74,7 @@
         <th>white</th>
         <td><img src="/projects/feilong/feilong-white.png" width="200"></td>
         <td><img src="/projects/feilong/feilong-white.svg" width="200"></td>
-    </tr> -->
+    </tr>
 </table>
 
 ## TerseDecompress Logos
@@ -90,7 +90,7 @@
         <td><img src="/projects/tersedecompress/tersedecompress-color.png" width="200"></td>
         <td><img src="/projects/tersedecompress/tersedecompress-color.svg" width="200"></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/tersedecompress/tersedecompress-black.png" width="200"></td>
         <td><img src="/projects/tersedecompress/tersedecompress-black.svg" width="200"></td>
@@ -99,7 +99,7 @@
         <th>white</th>
         <td><img src="/projects/tersedecompress/tersedecompress-white.png" width="200"></td>
         <td><img src="/projects/tersedecompress/tersedecompress-white.svg" width="200"></td>
-    </tr> -->
+    </tr>
 </table>
 
 ## Zorow Logos
@@ -115,7 +115,7 @@
         <td><img src="/projects/zorow/zorow-color.png" width="200"></td>
         <td><img src="/projects/zorow/zorow-color.svg" width="200"></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/zorow/zorow-black.png" width="200"></td>
         <td><img src="/projects/zorow/zorow-black.svg" width="200"></td>
@@ -124,5 +124,5 @@
         <th>white</th>
         <td><img src="/projects/zorow/zorow-white.png" width="200"></td>
         <td><img src="/projects/zorow/zorow-white.svg" width="200"></td>
-    </tr> -->
+    </tr>
 </table>
