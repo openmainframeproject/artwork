@@ -51,11 +51,6 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
         <th>SVG</th>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-general-white.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-general-white.svg" width="200"></td>
-    </tr>
-    <tr>
         <th>color</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-general-color.png" width="200"></td>
         <td><img src="/other/zowe-conformant/zowe-conformant-general-color.svg" width="200"></td>
@@ -64,6 +59,11 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
         <th>black</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-general-black.png" width="200"></td>
         <td><img src="/other/zowe-conformant/zowe-conformant-general-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-white.svg" width="200"></td>
     </tr>
 </table>
 
@@ -115,7 +115,6 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-white.png" width="200"></td>
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-white.svg" width="200"></td>
     </tr>
-
 </table>
 
 ### CLI 2019
