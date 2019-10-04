@@ -110,11 +110,11 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-color.png" width="200"></td>
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-color.svg" width="200"></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>black</th>
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.png" width="200"></td>
         <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.svg" width="200"></td>
-    </tr> -->
+    </tr>
 </table>
 
 ### CLI 2019
