@@ -27,18 +27,30 @@
     </tr>
 </table>
 
-<!-- ## Open Mainframe Project Member Logos
+## Open Mainframe Project Member Logos
 
 <table>
     <tr>
+        <th></th>
         <th>PNG</th>
         <th>SVG</th>
     </tr>
     <tr>
-        <td><img src="/other/odpi-member/openmainframeproject-member.png" width="200"></td>
-        <td><img src="/other/odpi-member/openmainframeproject-member.svg" width="200"></td>
+        <th>color</th>
+        <td><img src="/other/openmainframeproject-member/openmainframeproject-member-color.png" width="200"></td>
+        <td><img src="/other/openmainframeproject-member/openmainframeproject-member-color.svg" width="200"></td>
     </tr>
-</table> -->
+    <tr>
+        <th>black</th>
+        <td><img src="/other/openmainframeproject-member/openmainframeproject-member-black.png" width="200"></td>
+        <td><img src="/other/openmainframeproject-member/openmainframeproject-member-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/openmainframeproject-member/openmainframeproject-member-white.png" width="200"></td>
+        <td><img src="/other/openmainframeproject-member/openmainframeproject-member-white.svg" width="200"></td>
+    </tr>
+</table>
 
 ## Zowe Conformant Logos
 
