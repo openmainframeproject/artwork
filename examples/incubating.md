@@ -77,6 +77,31 @@
     </tr>
 </table>
 
+## Polycephaly Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/polycephaly/polycephaly-color.png" width="200"></td>
+        <td><img src="/projects/polycephaly/polycephaly-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/polycephaly/polycephaly-black.png" width="200"></td>
+        <td><img src="/projects/polycephaly/polycephaly-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/polycephaly/polycephaly-white.png" width="200"></td>
+        <td><img src="/projects/polycephaly/polycephaly-white.svg" width="200"></td>
+    </tr>
+</table>
+
 ## TerseDecompress Logos
 
 <table>
