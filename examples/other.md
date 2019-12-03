@@ -62,8 +62,8 @@
     </tr>
     <tr>
         <th>Associate</th>
-        <td><img src="/other/lf-member/associate/lf_mem_assoc.png" width="200"></td>
-        <td><img src="/other/lf-member/associate/lf_mem_assoc.svg" width="200"></td>
+        <td><img src="/other/lf-member/associate/lf_mem_asso.png" width="200"></td>
+        <td><img src="/other/lf-member/associate/lf_mem_asso.svg" width="200"></td>
     </tr>
     <tr>
         <th>Silver</th>
