@@ -52,6 +52,36 @@
     </tr>
 </table>
 
+## Linux Foundation Member Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>Associate</th>
+        <td><img src="/other/lf-member/associate/lf_mem_assoc.png" width="200"></td>
+        <td><img src="/other/lf-member/associate/lf_mem_assoc.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Silver</th>
+        <td><img src="/other/lf-member/silver/lf_mem_silv.png" width="200"></td>
+        <td><img src="/other/lf-member/silver/lf_mem_silv.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Gold</th>
+        <td><img src="/other/lf-member/gold/lf_mem_gold.png" width="200"></td>
+        <td><img src="/other/lf-member/gold/lf_mem_gold.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>Platinum</th>
+        <td><img src="/other/lf-member/platinum/lf_mem_plat.png" width="200"></td>
+        <td><img src="/other/lf-member/platinum/lf_mem_plat.svg" width="200"></td>
+    </tr>
+</table>
+
 ## Zowe Conformant Logos
 
 The Zowe Conformant marks are only available for use with [conformant](https://www.openmainframeproject.org/projects/zowe/conformance) implementations and must comply with the [brand guidelines](https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide).
