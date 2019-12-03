@@ -12,7 +12,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Ambitus](examples/incubating.md#ambitus-logos)
   * [Atom language syntax highlighting for z/VM](examples/incubating.md#atom-language-syntax-highlighting-for-zvm-logos)
   * [Feilong](examples/incubating.md#feilong-logos)
-  * [Polycephaly](examples/incubating#polycephaly-logos)
+  * [Polycephaly](examples/incubating.md#polycephaly-logos)
   * [TerseDecompress](examples/incubating.md#tersedecompress-logos)
   * [Zorow](examples/incubating.md#zorow-logos)
 * [Other Open Mainframe Project Logos](examples/other.md)
