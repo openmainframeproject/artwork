@@ -77,17 +77,17 @@ We have provided approved artwork for both the Zowe logo and icon. Please note t
         <td><img src="/projects/zowe/zowe-icon-color.svg" width="200"></td>
     </tr>
     <tr>
-        <th>black</th>
-        <td><img src="/projects/zowe/zowe-black.png" width="200"></td>
-        <td><img src="/projects/zowe/zowe-black.svg" width="200"></td>
-        <td><img src="/projects/zowe/zowe-icon-black.png" width="200"></td>
-        <td><img src="/projects/zowe/zowe-icon-black.svg" width="200"></td>
-    </tr>
-    <tr>
         <th>white</th>
         <td><img src="/projects/zowe/zowe-white.png" width="200"></td>
         <td><img src="/projects/zowe/zowe-white.svg" width="200"></td>
         <td><img src="/projects/zowe/zowe-icon-white.png" width="200"></td>
         <td><img src="/projects/zowe/zowe-icon-white.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/zowe/zowe-black.png" width="200"></td>
+        <td><img src="/projects/zowe/zowe-black.svg" width="200"></td>
+        <td><img src="/projects/zowe/zowe-icon-black.png" width="200"></td>
+        <td><img src="/projects/zowe/zowe-icon-black.svg" width="200"></td>
     </tr>
 </table>
