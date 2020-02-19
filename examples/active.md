@@ -54,7 +54,7 @@
 
 ## Zowe Logos
 
-We have provided approved artwork for both the Zowe logo and icon. Please note that the Zowe icon should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ).
+We have provided approved artwork for both the Zowe logo and icon. Please note that the Zowe icon should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ). Please email [info@openmainframeproject.org](mailto:info@openmainframeproject.org) if you have questions on usage.
 
 <table>
     <tr>
