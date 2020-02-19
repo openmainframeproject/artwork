@@ -54,9 +54,18 @@
 
 ## Zowe Logos
 
+We have provided approved artwork for both the Zowe logo and icon. Please note that the Zowe icon should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ).
+
 <table>
     <tr>
         <th></th>
+        <th colspan="2">Logo</th>
+        <th colspan="2">Icon</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
         <th>PNG</th>
         <th>SVG</th>
     </tr>
@@ -64,15 +73,21 @@
         <th>color</th>
         <td><img src="/projects/zowe/zowe-color.png" width="200"></td>
         <td><img src="/projects/zowe/zowe-color.svg" width="200"></td>
+        <td><img src="/projects/zowe/zowe-icon-color.png" width="200"></td>
+        <td><img src="/projects/zowe/zowe-icon-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/zowe/zowe-black.png" width="200"></td>
         <td><img src="/projects/zowe/zowe-black.svg" width="200"></td>
+        <td><img src="/projects/zowe/zowe-icon-black.png" width="200"></td>
+        <td><img src="/projects/zowe/zowe-icon-black.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/zowe/zowe-white.png" width="200"></td>
         <td><img src="/projects/zowe/zowe-white.svg" width="200"></td>
+        <td><img src="/projects/zowe/zowe-icon-white.png" width="200"></td>
+        <td><img src="/projects/zowe/zowe-icon-white.svg" width="200"></td>
     </tr>
 </table>
