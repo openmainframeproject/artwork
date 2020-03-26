@@ -109,6 +109,81 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     </tr>
 </table>
 
+### API Mediation Layer 2020
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-apimediation-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-apimediation-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-apimediation-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-apimediation-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-apimediation-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-apimediation-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### App Framework 2020
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-appframework-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-appframework-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-appframework-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-appframework-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-appframework-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-appframework-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### CLI 2020
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-cli-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-cli-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-cli-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-cli-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-cli-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2020-cli-white.svg" width="200"></td>
+    </tr>
+</table>
+
 ### API Mediation Layer 2019
 
 <table>
@@ -119,18 +194,18 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-color.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-color.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-apimediation-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-apimediation-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-black.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-black.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-apimediation-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-apimediation-black.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-white.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-2019-white.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-apimediation-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-apimediation-white.svg" width="200"></td>
     </tr>
 </table>
 
@@ -144,18 +219,18 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-color.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-color.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-appframework-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-appframework-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-black.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-appframework-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-appframework-black.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-white.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-2019-white.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-appframework-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-appframework-white.svg" width="200"></td>
     </tr>
 </table>
 
@@ -169,17 +244,17 @@ The Zowe Conformant marks are only available for use with [conformant](https://w
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-color.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-color.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-cli-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-cli-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-black.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-black.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-cli-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-cli-black.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-white.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-white.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-cli-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-2019-cli-white.svg" width="200"></td>
     </tr>
 </table>
