@@ -7,6 +7,13 @@
 <table>
     <tr>
         <th></th>
+        <th colspan="2">Logo</th>
+        <th colspan="2">Icon</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
         <th>PNG</th>
         <th>SVG</th>
     </tr>
@@ -14,16 +21,22 @@
         <th>color</th>
         <td><img src="/other/openmainframeproject/openmainframeproject-color.png" width="200"></td>
         <td><img src="/other/openmainframeproject/openmainframeproject-color.svg" width="200"></td>
+        <td><img src="/other/openmainframeproject/openmainframeproject-icon-color.png" width="200"></td>
+        <td><img src="/other/openmainframeproject/openmainframeproject-icon-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/openmainframeproject/openmainframeproject-black.png" width="200"></td>
         <td><img src="/other/openmainframeproject/openmainframeproject-black.svg" width="200"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/openmainframeproject/openmainframeproject-white.png" width="200"></td>
         <td><img src="/other/openmainframeproject/openmainframeproject-white.svg" width="200"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
 </table>
 
