@@ -97,7 +97,7 @@
 
 ## Zowe Conformant Logos
 
-The Zowe Conformant marks are only available for use with [conformant](https://www.openmainframeproject.org/projects/zowe/conformance) implementations and must comply with the [brand guidelines](https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide).
+The Zowe Conformant marks are only available for use with [Zowe Conformant](https://www.openmainframeproject.org/projects/zowe/conformance) implementations and must comply with the [Zowe Conformant Brand Guidelines](https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide).
 
 <table>
     <tr>
