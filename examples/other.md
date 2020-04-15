@@ -196,3 +196,105 @@ The Zowe Conformant marks are only available for use with [Zowe Conformant](http
         <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-white.svg" width="200"></td>
     </tr>
 </table>
+
+
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### API Mediation Layer ZOWE V1
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-white
+.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-white
+.svg" width="200"></td>
+    </tr>
+</table>
+
+### App Framework ZOWE V1
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### CLI ZOWE V1
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-white.svg" width="200"></td>
+    </tr>
+</table>
