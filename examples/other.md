@@ -242,10 +242,8 @@ The Zowe Conformant marks are only available for use with [Zowe Conformant](http
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-white
-.png" width="200"></td>
-        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-white
-.svg" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-white.svg" width="200"></td>
     </tr>
 </table>
 
