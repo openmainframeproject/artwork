@@ -198,7 +198,8 @@ The Zowe Conformant marks are only available for use with [Zowe Conformant](http
         <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-white.svg" width="200"></td>
     </tr>
 </table>
-
+<br>
+### Zowe Conformant 2019 Logos
 
 <table>
     <tr>
