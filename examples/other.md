@@ -199,7 +199,8 @@ The Zowe Conformant marks are only available for use with [Zowe Conformant](http
     </tr>
 </table>
 <br>
-### Zowe Conformant 2019 Logos
+
+## Zowe Conformant 2019 Logos
 
 <table>
     <tr>
