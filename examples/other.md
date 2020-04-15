@@ -201,7 +201,7 @@ The Zowe Conformant marks are only available for use with [Zowe Conformant](http
 <br>
 
 ## Zowe Conformant 2019 Logos
-
+<br>
 <table>
     <tr>
         <th></th>
