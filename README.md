@@ -11,6 +11,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
 * [Incubating Projects](examples/incubating.md)
   * [Ambitus](examples/incubating.md#ambitus-logos)
   * [Atom language syntax highlighting for z/VM](examples/incubating.md#atom-language-syntax-highlighting-for-zvm-logos)
+  * [COBOL Programming Course](examples/incubating.md#cobol-programming-course-logos)
   * [Feilong](examples/incubating.md#feilong-logos)
   * [Polycephaly](examples/incubating.md#polycephaly-logos)
   * [TerseDecompress](examples/incubating.md#tersedecompress-logos)

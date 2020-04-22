@@ -52,6 +52,31 @@
     </tr>
 </table>
 
+## COBOL Programming Course Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/cobol-programming-course/cobol-programming-course-color.png" width="200"></td>
+        <td><img src="/projects/cobol-programming-course/cobol-programming-course-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cobol-programming-course/cobol-programming-course-black.png" width="200"></td>
+        <td><img src="/projects/cobol-programming-course/cobol-programming-course-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cobol-programming-course/cobol-programming-course-white.png" width="200"></td>
+        <td><img src="/projects/cobol-programming-course/cobol-programming-course-white.svg" width="200"></td>
+    </tr>
+</table>
+
 ## Feilong Logos
 
 <table>
