@@ -99,6 +99,109 @@
 
 The Zowe Conformant marks are only available for use with [Zowe Conformant](https://www.openmainframeproject.org/projects/zowe/conformance) implementations and must comply with the [Zowe Conformant Brand Guidelines](https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide).
 
+
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-general-zowev1-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### API Mediation Layer ZOWE V1
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-apimediation-zowev1-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### App Framework ZOWE V1
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-appframework-zowev1-white.svg" width="200"></td>
+    </tr>
+</table>
+
+### CLI ZOWE V1
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-color.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-black.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-white.png" width="200"></td>
+        <td><img src="/other/zowe-conformant/zowe-conformant-cli-zowev1-white.svg" width="200"></td>
+    </tr>
+</table>
+<br>
+
+## Zowe Conformant 2019 Logos
+<br>
 <table>
     <tr>
         <th></th>
@@ -196,3 +299,4 @@ The Zowe Conformant marks are only available for use with [Zowe Conformant](http
         <td><img src="/other/zowe-conformant/zowe-conformant-cli-2019-white.svg" width="200"></td>
     </tr>
 </table>
+
