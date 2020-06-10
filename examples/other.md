@@ -65,6 +65,10 @@
     </tr>
 </table>
 
+## Open Mainframe Project Presentation Template
+
+[Open Mainframe Project Presentation Template - Powerpoint](/other/openmainframeproject/openmainframeproject-presentation-template.pptx)
+
 ## Linux Foundation Member Logos
 
 <table>
