@@ -16,6 +16,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Polycephaly](examples/incubating.md#polycephaly-logos)
   * [TerseDecompress](examples/incubating.md#tersedecompress-logos)
   * [Zorow](examples/incubating.md#zorow-logos)
+  * [Education](examples/incubating.md#education-logos)
 * [Other Open Mainframe Project Logos](examples/other.md)
   * [Open Mainframe Project](examples/other.md#open-mainframe-project-logos)
   * [Open Mainframe Project Member](examples/other.md#open-mainframe-project-member-logos)
