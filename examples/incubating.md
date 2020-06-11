@@ -177,6 +177,8 @@
     </tr>
 
 </table>
+
+
 ## Education Logos
 
 <table>
