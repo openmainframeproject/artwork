@@ -202,4 +202,5 @@
         <td><img src="/projects/education/education-white.png" width="200"></td>
         <td><img src="/projects/education/education-white.svg" width="200"></td>
     </tr>
+
 </table>
