@@ -69,6 +69,31 @@
 
 [Open Mainframe Project Presentation Template - Powerpoint](/other/openmainframeproject/openmainframeproject-presentation-template.pptx)
 
+## Open Mainframe Summit Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/openmainframeproject-member/openmainframesummit-color.png" width="200"></td>
+        <td><img src="/other/openmainframeproject-member/openmainframesummit-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/openmainframeproject-member/openmainframesummit-black.png" width="200"></td>
+        <td><img src="/other/openmainframeproject-member/openmainframesummit-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/openmainframeproject-member/openmainframesummit-white.png" width="200"></td>
+        <td><img src="/other/openmainframeproject-member/openmainframesummit-white.svg" width="200"></td>
+    </tr>
+</table>
+
 ## Linux Foundation Member Logos
 
 <table>
