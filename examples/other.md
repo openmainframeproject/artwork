@@ -79,18 +79,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/openmainframeproject-member/openmainframesummit-color.png" width="200"></td>
-        <td><img src="/other/openmainframeproject-member/openmainframesummit-color.svg" width="200"></td>
+        <td><img src="/other/openmainframesummit/openmainframesummit-color.png" width="200"></td>
+        <td><img src="/other/openmainframesummit/openmainframesummit-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/openmainframeproject-member/openmainframesummit-black.png" width="200"></td>
-        <td><img src="/other/openmainframeproject-member/openmainframesummit-black.svg" width="200"></td>
+        <td><img src="/other/openmainframesummit/openmainframesummit-black.png" width="200"></td>
+        <td><img src="/other/openmainframesummit/openmainframesummit-black.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/openmainframeproject-member/openmainframesummit-white.png" width="200"></td>
-        <td><img src="/other/openmainframeproject-member/openmainframesummit-white.svg" width="200"></td>
+        <td><img src="/other/openmainframesummit/openmainframesummit-white.png" width="200"></td>
+        <td><img src="/other/openmainframesummit/openmainframesummit-white.svg" width="200"></td>
     </tr>
 </table>
 
