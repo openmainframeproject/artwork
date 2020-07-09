@@ -12,6 +12,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Ambitus](examples/incubating.md#ambitus-logos)
   * [Atom language syntax highlighting for z/VM](examples/incubating.md#atom-language-syntax-highlighting-for-zvm-logos)
   * [COBOL Programming Course](examples/incubating.md#cobol-programming-course-logos)
+  * [Education](examples/incubating.md#education-logos)
   * [Feilong](examples/incubating.md#feilong-logos)
   * [Polycephaly](examples/incubating.md#polycephaly-logos)
   * [Software Discovery Tool](examples/incubating.md#software-discovery-tool-logos)
@@ -21,6 +22,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Open Mainframe Project](examples/other.md#open-mainframe-project-logos)
   * [Open Mainframe Project Member](examples/other.md#open-mainframe-project-member-logos)
   * [Open Mainframe Project Presentation Template](examples/other.md#open-mainframe-project-presentation-template)
+  * [Open Mainframe Summit](examples/other.md#open-mainframe-summit-logos)
   * [Linux Foundation Member](examples/other.md#linux-foundation-member-logos)
   * [Zowe Conformant](examples/other.md#zowe-conformant-logos)
 
