@@ -127,6 +127,31 @@
     </tr>
 </table>
 
+## Software Discovery Tool Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-color.png" width="200"></td>
+        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-black.png" width="200"></td>
+        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-white.png" width="200"></td>
+        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-white.svg" width="200"></td>
+    </tr>
+</table>
+
 ## TerseDecompress Logos
 
 <table>
@@ -175,32 +200,4 @@
         <td><img src="/projects/zorow/zorow-white.png" width="200"></td>
         <td><img src="/projects/zorow/zorow-white.svg" width="200"></td>
     </tr>
-
-</table>
-
-
-## Education Logos
-
-<table>
-    <tr>
-        <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/education/education-color.png" width="200"></td>
-        <td><img src="/projects/education/education-color.svg" width="200"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/education/education-black.png" width="200"></td>
-        <td><img src="/projects/education/education-black.svg" width="200"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/education/education-white.png" width="200"></td>
-        <td><img src="/projects/education/education-white.svg" width="200"></td>
-    </tr>
-
 </table>

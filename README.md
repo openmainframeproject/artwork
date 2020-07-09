@@ -1,34 +1,30 @@
-## Open Mainframe Project Logos
+# LF DL Related Logos and Artwork 
+In this repo, we provide artwork in standard formats for the LF DL [projects](https://deeplearningfoundation.org/projects/) and programs. We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos. 
 
-In this repo, we have artwork in standard formats for the Open Mainframe Project [projects](https://www.openmainframeproject.org/projects/) and programs. We prepare artwork in 2 formats (PNG & SVG) and at least 3 versions (color/black/white).
 
-With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
+## LF DL Graduation Project Logos
+<img src="/acumos/horizontal/color/acumosAI-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/acumos/stacked/color/acumosAI-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/acumos/icon/color/acumosAI-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-* [Active Projects](examples/active.md)
-  * [ADE](examples/active.md#ade-logos)
-  * [Mentorship](examples/active.md#mentorship-logos)
-  * [Zowe](examples/active.md#zowe-logos)
-* [Incubating Projects](examples/incubating.md)
-  * [Ambitus](examples/incubating.md#ambitus-logos)
-  * [Atom language syntax highlighting for z/VM](examples/incubating.md#atom-language-syntax-highlighting-for-zvm-logos)
-  * [COBOL Programming Course](examples/incubating.md#cobol-programming-course-logos)
-  * [Feilong](examples/incubating.md#feilong-logos)
-  * [Polycephaly](examples/incubating.md#polycephaly-logos)
-  * [TerseDecompress](examples/incubating.md#tersedecompress-logos)
-  * [Zorow](examples/incubating.md#zorow-logos)
-  * [Education](examples/incubating.md#education-logos)
-* [Other Open Mainframe Project Logos](examples/other.md)
-  * [Open Mainframe Project](examples/other.md#open-mainframe-project-logos)
-  * [Open Mainframe Project Member](examples/other.md#open-mainframe-project-member-logos)
-  * [Open Mainframe Summit](examples/other.md#open-mainframe-summit-logos)
-  * [Open Mainframe Project Presentation Template](examples/other.md#open-mainframe-project-presentation-template)
-  * [Linux Foundation Member](examples/other.md#linux-foundation-member-logos)
-  * [Zowe Conformant](examples/other.md#zowe-conformant-logos)
+## LF DL Incubation Project Logos
+<img src="/angel/horizontal/color/angelML-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/angel/stacked/color/angelML-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/angel/icon/color/angelML-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at https://github.com/openmainframeproject/artwork/blob/master/LICENSE.md.
+<img src="/edl/horizontal/color/edl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/edl/stacked/color/edl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/edl/icon/color/edl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-The [Zowe Conformant](examples/other.md#zowe-conformant) marks are only available for use with [Zowe Conformant](https://www.openmainframeproject.org/projects/zowe/conformance) implementations and must comply with the [Zowe Conformant Brand Guidelines](https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide).
+<img src="/horovod/horizontal/color/horovod-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/horovod/stacked/color/horovod-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/horovod/icon/color/horovod-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-Any provided artwork that is an icon ( for example, those provided with [Zowe](examples/active.md#zowe-logos) ) should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ). More details are in the [Open Mainframe Project Branding Guidelines](https://www.openmainframeproject.org/branding-guidelines)
+<img src="/pyro/horizontal/color/pyro-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/pyro/stacked/color/pyro-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/pyro/icon/color/pyro-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-Questions? Please email [info@openmainframeproject.org](mailto:info@openmainframeproject.org).
+## LF DL Logos
+
+<img src="/lfdl/horizontal/color/lfdl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfdl/stacked/color/lfdl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfdl/icon/color/lfdl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+<img src="/lfdl-landscape/horizontal/color/lfdl-landscape-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfdl-landscape/stacked/color/lfdl-landscape-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfdl-landscape/icon/color/lfdl-landscape-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+## LF DL Membership Badges
+
+<img src="/lfdl-membership-badge/premier/color/lfdl_mem_premier.png"  width="200" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp;  &nbsp; <img src="/lfdl-membership-badge/general/color/lfdl_mem_general.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">     &nbsp;  &nbsp;  &nbsp; <img src="/lfdl-membership-badge/associate/color/lfdl_mem_associate.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">    
+
+## 
+Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
+
+Questions? Please email info@lfdl.io.
