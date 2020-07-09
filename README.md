@@ -14,6 +14,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [COBOL Programming Course](examples/incubating.md#cobol-programming-course-logos)
   * [Feilong](examples/incubating.md#feilong-logos)
   * [Polycephaly](examples/incubating.md#polycephaly-logos)
+  * [Software Discovery Tool](examples/incubating.md#softwarediscoverytool-logos)
   * [TerseDecompress](examples/incubating.md#tersedecompress-logos)
   * [Zorow](examples/incubating.md#zorow-logos)
 * [Other Open Mainframe Project Logos](examples/other.md)
