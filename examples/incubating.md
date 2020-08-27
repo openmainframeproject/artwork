@@ -128,6 +128,36 @@
     </tr>
 </table>
 
+## GenevaERS Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/genevaers/genevaers-color.png" width="200"></td>
+        <td><img src="/projects/genevaers/genevaers-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/genevaers/genevaers-black.png" width="200"></td>
+        <td><img src="/projects/genevaers/genevaers-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/genevaers/genevaers-white.png" width="200"></td>
+        <td><img src="/projects/genevaers/genevaers-white.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>icon</th>
+        <td><img src="/projects/genevaers/genevaers-icon.png" width="200"></td>
+        <td><img src="/projects/genevaers/genevaers-icon.svg" width="200"></td>
+    </tr>
+</table>
+
 ## Polycephaly Logos
 
 <table>
