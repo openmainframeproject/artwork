@@ -153,8 +153,8 @@
     </tr>
     <tr>
         <th>icon</th>
-        <td><img src="/projects/genevaers/genevaers-icon.png" width="200"></td>
-        <td><img src="/projects/genevaers/genevaers-icon.svg" width="200"></td>
+        <td><img src="/projects/genevaers/genevaers-icon.png" style="text-align:center;"></td>
+        <td><img src="/projects/genevaers/genevaers-icon.svg" style="text-align:center;"></td>
     </tr>
 </table>
 
