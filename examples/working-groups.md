@@ -12,17 +12,17 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/cobol-wg/cobol-wg-color.png" width="200"></td>
-        <td><img src="/projects/cobol-wg/cobol-wg-color.svg" width="200"></td>
+        <td><img src="/working-groups/cobol-wg/cobol-wg-color.png" width="200"></td>
+        <td><img src="/working-groups/cobol-wg/cobol-wg-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/cobol-wg/cobol-wg-black.png" width="200"></td>
-        <td><img src="/projects/cobol-wg/cobol-wg-black.svg" width="200"></td>
+        <td><img src="/working-groups/cobol-wg/cobol-wg-black.png" width="200"></td>
+        <td><img src="/working-groups/cobol-wg/cobol-wg-black.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/cobol-wg/cobol-wg-white.png" width="200"></td>
-        <td><img src="/projects/cobol-wg/cobol-wg-white.svg" width="200"></td>
+        <td><img src="/working-groups/cobol-wg/cobol-wg-white.png" width="200"></td>
+        <td><img src="/working-groups/cobol-wg/cobol-wg-white.svg" width="200"></td>
     </tr>
 </table>
