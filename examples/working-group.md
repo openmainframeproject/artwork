@@ -1,4 +1,4 @@
-# Open Mainframe Project Incubating Project Logos
+# Open Mainframe Project Working Group Logos
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
