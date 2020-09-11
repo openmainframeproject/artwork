@@ -12,18 +12,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/ambitus/ambitus-color.png" width="200"></td>
-        <td><img src="/projects/ambitus/ambitus-color.svg" width="200"></td>
+        <td><a href="../projects/ambitus/ambitus-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ambitus/ambitus-color.png" width="200"></a></td>
+        <td><a href="../projects/ambitus/ambitus-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ambitus/ambitus-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/ambitus/ambitus-black.png" width="200"></td>
-        <td><img src="/projects/ambitus/ambitus-black.svg" width="200"></td>
+        <td><a href="../projects/ambitus/ambitus-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ambitus/ambitus-black.png" width="200"></a></td>
+        <td><a href="../projects/ambitus/ambitus-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ambitus/ambitus-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/ambitus/ambitus-white.png" width="200"></td>
-        <td><img src="/projects/ambitus/ambitus-white.svg" width="200"></td>
+        <td><a href="../projects/ambitus/ambitus-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ambitus/ambitus-white.png" width="200"></a></td>
+        <td><a href="../projects/ambitus/ambitus-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ambitus/ambitus-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -37,18 +37,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/atom/atom-color.png" width="200"></td>
-        <td><img src="/projects/atom/atom-color.svg" width="200"></td>
+        <td><a href="../projects/atom/atom-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/atom/atom-color.png" width="200"></a></td>
+        <td><a href="../projects/atom/atom-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/atom/atom-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/atom/atom-black.png" width="200"></td>
-        <td><img src="/projects/atom/atom-black.svg" width="200"></td>
+        <td><a href="../projects/atom/atom-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/atom/atom-black.png" width="200"></a></td>
+        <td><a href="../projects/atom/atom-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/atom/atom-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/atom/atom-white.png" width="200"></td>
-        <td><img src="/projects/atom/atom-white.svg" width="200"></td>
+        <td><a href="../projects/atom/atom-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/atom/atom-white.png" width="200"></a></td>
+        <td><a href="../projects/atom/atom-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/atom/atom-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -62,18 +62,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/cobol-programming-course/cobol-programming-course-color.png" width="200"></td>
-        <td><img src="/projects/cobol-programming-course/cobol-programming-course-color.svg" width="200"></td>
+        <td><a href="../projects/cobol-programming-course/cobol-programming-course-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/cobol-programming-course/cobol-programming-course-color.png" width="200"></a></td>
+        <td><a href="../projects/cobol-programming-course/cobol-programming-course-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/cobol-programming-course/cobol-programming-course-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/cobol-programming-course/cobol-programming-course-black.png" width="200"></td>
-        <td><img src="/projects/cobol-programming-course/cobol-programming-course-black.svg" width="200"></td>
+        <td><a href="../projects/cobol-programming-course/cobol-programming-course-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/cobol-programming-course/cobol-programming-course-black.png" width="200"></a></td>
+        <td><a href="../projects/cobol-programming-course/cobol-programming-course-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/cobol-programming-course/cobol-programming-course-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/cobol-programming-course/cobol-programming-course-white.png" width="200"></td>
-        <td><img src="/projects/cobol-programming-course/cobol-programming-course-white.svg" width="200"></td>
+        <td><a href="../projects/cobol-programming-course/cobol-programming-course-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/cobol-programming-course/cobol-programming-course-white.png" width="200"></a></td>
+        <td><a href="../projects/cobol-programming-course/cobol-programming-course-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/cobol-programming-course/cobol-programming-course-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -87,18 +87,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/education/education-color.png" width="200"></td>
-        <td><img src="/projects/education/education-color.svg" width="200"></td>
+        <td><a href="../projects/education/education-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/education/education-color.png" width="200"></a></td>
+        <td><a href="../projects/education/education-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/education/education-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/education/education-black.png" width="200"></td>
-        <td><img src="/projects/education/education-black.svg" width="200"></td>
+        <td><a href="../projects/education/education-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/education/education-black.png" width="200"></a></td>
+        <td><a href="../projects/education/education-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/education/education-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/education/education-white.png" width="200"></td>
-        <td><img src="/projects/education/education-white.svg" width="200"></td>
+        <td><a href="../projects/education/education-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/education/education-white.png" width="200"></a></td>
+        <td><a href="../projects/education/education-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/education/education-white.svg" width="200"></a></td>
     </tr>
 
 </table>
@@ -113,18 +113,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/feilong/feilong-color.png" width="200"></td>
-        <td><img src="/projects/feilong/feilong-color.svg" width="200"></td>
+        <td><a href="../projects/feilong/feilong-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/feilong/feilong-color.png" width="200"></a></td>
+        <td><a href="../projects/feilong/feilong-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/feilong/feilong-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/feilong/feilong-black.png" width="200"></td>
-        <td><img src="/projects/feilong/feilong-black.svg" width="200"></td>
+        <td><a href="../projects/feilong/feilong-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/feilong/feilong-black.png" width="200"></a></td>
+        <td><a href="../projects/feilong/feilong-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/feilong/feilong-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/feilong/feilong-white.png" width="200"></td>
-        <td><img src="/projects/feilong/feilong-white.svg" width="200"></td>
+        <td><a href="../projects/feilong/feilong-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/feilong/feilong-white.png" width="200"></a></td>
+        <td><a href="../projects/feilong/feilong-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/feilong/feilong-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -138,23 +138,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/genevaers/genevaers-color.png" width="200"></td>
-        <td><img src="/projects/genevaers/genevaers-color.svg" width="200"></td>
+        <td><a href="../projects/genevaers/genevaers-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/genevaers/genevaers-color.png" width="200"></a></td>
+        <td><a href="../projects/genevaers/genevaers-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/genevaers/genevaers-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/genevaers/genevaers-black.png" width="200"></td>
-        <td><img src="/projects/genevaers/genevaers-black.svg" width="200"></td>
+        <td><a href="../projects/genevaers/genevaers-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/genevaers/genevaers-black.png" width="200"></a></td>
+        <td><a href="../projects/genevaers/genevaers-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/genevaers/genevaers-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/genevaers/genevaers-white.png" width="200"></td>
-        <td><img src="/projects/genevaers/genevaers-white.svg" width="200"></td>
-    </tr>
-    <tr>
-        <th>icon</th>
-        <td><img src="/projects/genevaers/genevaers-icon.png" style="text-align:center;"></td>
-        <td><img src="/projects/genevaers/genevaers-icon.svg" style="text-align:center;"></td>
+        <td><a href="../projects/genevaers/genevaers-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/genevaers/genevaers-white.png" width="200"></a></td>
+        <td><a href="../projects/genevaers/genevaers-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/genevaers/genevaers-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -168,18 +163,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/polycephaly/polycephaly-color.png" width="200"></td>
-        <td><img src="/projects/polycephaly/polycephaly-color.svg" width="200"></td>
+        <td><a href="../projects/polycephaly/polycephaly-icon.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/polycephaly/polycephaly-color.png" width="200"></a></td>
+        <td><a href="../projects/polycephaly/polycephaly-icon.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/polycephaly/polycephaly-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/polycephaly/polycephaly-black.png" width="200"></td>
-        <td><img src="/projects/polycephaly/polycephaly-black.svg" width="200"></td>
+        <td><a href="../projects/polycephaly/polycephaly-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/polycephaly/polycephaly-black.png" width="200"></a></td>
+        <td><a href="../projects/polycephaly/polycephaly-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/polycephaly/polycephaly-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/polycephaly/polycephaly-white.png" width="200"></td>
-        <td><img src="/projects/polycephaly/polycephaly-white.svg" width="200"></td>
+        <td><a href="../projects/polycephaly/polycephaly-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/polycephaly/polycephaly-white.png" width="200"></a></td>
+        <td><a href="../projects/polycephaly/polycephaly-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/polycephaly/polycephaly-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -193,18 +188,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-color.png" width="200"></td>
-        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-color.svg" width="200"></td>
+        <td><a href="../projects/softwarediscoverytool/softwarediscoverytool-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/softwarediscoverytool/softwarediscoverytool-color.png" width="200"></a></td>
+        <td><a href="../projects/softwarediscoverytool/softwarediscoverytool-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/softwarediscoverytool/softwarediscoverytool-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-black.png" width="200"></td>
-        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-black.svg" width="200"></td>
+        <td><a href="../projects/softwarediscoverytool/softwarediscoverytool-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/softwarediscoverytool/softwarediscoverytool-black.png" width="200"></a></td>
+        <td><a href="../projects/softwarediscoverytool/softwarediscoverytool-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/softwarediscoverytool/softwarediscoverytool-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-white.png" width="200"></td>
-        <td><img src="/projects/softwarediscoverytool/softwarediscoverytool-white.svg" width="200"></td>
+        <td><a href="../projects/softwarediscoverytool/softwarediscoverytool-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/softwarediscoverytool/softwarediscoverytool-white.png" width="200"></a></td>
+        <td><a href="../projects/softwarediscoverytool/softwarediscoverytool-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/softwarediscoverytool/softwarediscoverytool-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -218,18 +213,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/tersedecompress/tersedecompress-color.png" width="200"></td>
-        <td><img src="/projects/tersedecompress/tersedecompress-color.svg" width="200"></td>
+        <td><a href="../projects/tersedecompress/tersedecompress-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/tersedecompress/tersedecompress-color.png" width="200"></a></td>
+        <td><a href="../projects/tersedecompress/tersedecompress-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/tersedecompress/tersedecompress-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/tersedecompress/tersedecompress-black.png" width="200"></td>
-        <td><img src="/projects/tersedecompress/tersedecompress-black.svg" width="200"></td>
+        <td><a href="../projects/tersedecompress/tersedecompress-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/tersedecompress/tersedecompress-black.png" width="200"></a></td>
+        <td><a href="../projects/tersedecompress/tersedecompress-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/tersedecompress/tersedecompress-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/tersedecompress/tersedecompress-white.png" width="200"></td>
-        <td><img src="/projects/tersedecompress/tersedecompress-white.svg" width="200"></td>
+        <td><a href="../projects/tersedecompress/tersedecompress-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/tersedecompress/tersedecompress-white.png" width="200"></a></td>
+        <td><a href="../projects/tersedecompress/tersedecompress-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/tersedecompress/tersedecompress-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -243,17 +238,17 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/zorow/zorow-color.png" width="200"></td>
-        <td><img src="/projects/zorow/zorow-color.svg" width="200"></td>
+        <td><a href="../projects/zorow/zorow-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zorow/zorow-color.png" width="200"></a></td>
+        <td><a href="../projects/zorow/zorow-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zorow/zorow-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/zorow/zorow-black.png" width="200"></td>
-        <td><img src="/projects/zorow/zorow-black.svg" width="200"></td>
+        <td><a href="../projects/zorow/zorow-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zorow/zorow-black.png" width="200"></a></td>
+        <td><a href="../projects/zorow/zorow-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zorow/zorow-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/zorow/zorow-white.png" width="200"></td>
-        <td><img src="/projects/zorow/zorow-white.svg" width="200"></td>
+        <td><a href="../projects/zorow/zorow-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zorow/zorow-white.png" width="200"></a></td>
+        <td><a href="../projects/zorow/zorow-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zorow/zorow-white.svg" width="200"></a></td>
     </tr>
 </table>
