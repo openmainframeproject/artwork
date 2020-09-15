@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OMP Logos
+title: Open Mainframe Project Artwork
 permalink: /
 ---
 
