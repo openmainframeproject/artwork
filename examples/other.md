@@ -25,16 +25,16 @@
         <td><a href="../other/openmainframeproject/openmainframeproject-ico-color.png" download><img src="../other/openmainframeproject/openmainframeproject-icon-color.svg" width="200"></a></td>
     </tr>
     <tr>
-        <th>black</th>
-        <td><a href="../other/openmainframeproject/openmainframeproject-black.png" download><img src="../other/openmainframeproject/openmainframeproject-black.png" width="200"></a></td>
-        <td><a href="../other/openmainframeproject/openmainframeproject-black.svg" download><img src="../other/openmainframeproject/openmainframeproject-black.svg" width="200"></a></td>
+        <th>white</th>
+        <td><a href="../other/openmainframeproject/openmainframeproject-white.png" download><img src="../other/openmainframeproject/openmainframeproject-white.png" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-white.svg" download><img src="../other/openmainframeproject/openmainframeproject-white.svg" width="200"></a></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
-        <th>white</th>
-        <td><a href="../other/openmainframeproject/openmainframeproject-white.png" download><img src="../other/openmainframeproject/openmainframeproject-white.png" width="200"></a></td>
-        <td><a href="../other/openmainframeproject/openmainframeproject-white.svg" download><img src="../other/openmainframeproject/openmainframeproject-white.svg" width="200"></a></td>
+        <th>black</th>
+        <td><a href="../other/openmainframeproject/openmainframeproject-black.png" download><img src="../other/openmainframeproject/openmainframeproject-black.png" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-black.svg" download><img src="../other/openmainframeproject/openmainframeproject-black.svg" width="200"></a></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
