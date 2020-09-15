@@ -1,1 +1,6 @@
-name: ASWF Logos + Artwork
+name: OMP Logos + Artwork
+title: Open Mainframe Project Artwork
+description: >-
+  Logos and artwork for Open Mainframe Project (OMP) and it's hosted projects
+# Settings
+github_repo: https://github.com/openmainframeproject/artwork
