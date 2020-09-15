@@ -106,7 +106,7 @@ table {
 }
 
 table.logos-table tbody tr td {
-  background-image: url('assets/img/download-icon.svg');
+  background-image: url('/assets/img/download-icon.svg');
   background-size: 15px 15px;
   background-repeat: no-repeat;
   background-position: 5px 5px;
