@@ -4,7 +4,7 @@
 
 ## Open Mainframe Project Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th colspan="2">Logo</th>
@@ -42,7 +42,7 @@
 
 ## Open Mainframe Project Member Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -70,7 +70,7 @@
 
 ## Open Mainframe Summit Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -95,7 +95,7 @@
 
 ## Linux Foundation Member Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -127,7 +127,7 @@
 
 The Zowe Conformant marks are only available for use with <a href="https://www.openmainframeproject.org/projects/zowe/conformance" style="color:black !important;text-decoration:underline !important">Zowe Conformant</a> implementations and must comply with the <a href="https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide" style="color:black !important;text-decoration:underline !important">Zowe Conformant Brand Guidelines</a>.
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -152,7 +152,7 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
 
 ### API Mediation Layer ZOWE V1
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -177,7 +177,7 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
 
 ### App Framework ZOWE V1
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -202,7 +202,7 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
 
 ### CLI ZOWE V1
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -228,7 +228,7 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
 
 ## Zowe Conformant 2019 Logos
 <br>
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -253,7 +253,7 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
 
 ### API Mediation Layer 2019
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -278,7 +278,7 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
 
 ### App Framework 2019
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -303,7 +303,7 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
 
 ### CLI 2019
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
