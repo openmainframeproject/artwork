@@ -19,22 +19,22 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><a href="../other/openmainframeproject/openmainframeproject-color.png" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject/openmainframeproject-color.png" width="200"></a></td>
-        <td><a href="../other/openmainframeproject/openmainframeproject-color.svg" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject/openmainframeproject-color.svg" width="200"></a></td>
-        <td><a href="../other/openmainframeproject/openmainframeproject-icon-color.png" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject/openmainframeproject-icon-color.png" width="200"></a></td>
-        <td><a href="../other/openmainframeproject/openmainframeproject-ico-color.png" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject/openmainframeproject-icon-color.svg" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-color.png" download><img src="../other/openmainframeproject/openmainframeproject-color.png" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-color.svg" download><img src="../other/openmainframeproject/openmainframeproject-color.svg" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-icon-color.png" download><img src="../other/openmainframeproject/openmainframeproject-icon-color.png" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-ico-color.png" download><img src="../other/openmainframeproject/openmainframeproject-icon-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><a href="../other/openmainframeproject/openmainframeproject-black.png" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject/openmainframeproject-black.png" width="200"></a></td>
-        <td><a href="../other/openmainframeproject/openmainframeproject-black.svg" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject/openmainframeproject-black.svg" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-black.png" download><img src="../other/openmainframeproject/openmainframeproject-black.png" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-black.svg" download><img src="../other/openmainframeproject/openmainframeproject-black.svg" width="200"></a></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <th>white</th>
-        <td><a href="../other/openmainframeproject/openmainframeproject-white.png" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject/openmainframeproject-white.png" width="200"></a></td>
-        <td><a href="../other/openmainframeproject/openmainframeproject-white.svg" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject/openmainframeproject-white.svg" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-white.png" download><img src="../other/openmainframeproject/openmainframeproject-white.png" width="200"></a></td>
+        <td><a href="../other/openmainframeproject/openmainframeproject-white.svg" download><img src="../other/openmainframeproject/openmainframeproject-white.svg" width="200"></a></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
@@ -50,18 +50,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><a href="../openmainframeproject-member/openmainframeproject-member-color.png" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject-member/openmainframeproject-member-color.png" width="200"></a></td>
-        <td><a href="../openmainframeproject-member/openmainframeproject-member-color.svg" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject-member/openmainframeproject-member-color.svg" width="200"></a></td>
+        <td><a href="../openmainframeproject-member/openmainframeproject-member-color.png" download><img src="../other/openmainframeproject-member/openmainframeproject-member-color.png" width="200"></a></td>
+        <td><a href="../openmainframeproject-member/openmainframeproject-member-color.svg" download><img src="../other/openmainframeproject-member/openmainframeproject-member-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><a href="../openmainframeproject-member/openmainframeproject-member-black.svg" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject-member/openmainframeproject-member-black.png" width="200"></a></td>
-        <td><a href="../openmainframeproject-member/openmainframeproject-member-color.svg" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject-member/openmainframeproject-member-black.svg" width="200"></a></td>
+        <td><a href="../openmainframeproject-member/openmainframeproject-member-black.svg" download><img src="../other/openmainframeproject-member/openmainframeproject-member-black.png" width="200"></a></td>
+        <td><a href="../openmainframeproject-member/openmainframeproject-member-color.svg" download><img src="../other/openmainframeproject-member/openmainframeproject-member-black.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><a href="../openmainframeproject-member/openmainframeproject-member-white.png" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject-member/openmainframeproject-member-white.png" width="200"></a></td>
-        <td><a href="../openmainframeproject-member/openmainframeproject-member-white.svg" download="omp"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../other/openmainframeproject-member/openmainframeproject-member-white.svg" width="200"></a></td>
+        <td><a href="../openmainframeproject-member/openmainframeproject-member-white.png" download><img src="../other/openmainframeproject-member/openmainframeproject-member-white.png" width="200"></a></td>
+        <td><a href="../openmainframeproject-member/openmainframeproject-member-white.svg" download><img src="../other/openmainframeproject-member/openmainframeproject-member-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -126,8 +126,6 @@
 ## Zowe Conformant Logos
 
 The Zowe Conformant marks are only available for use with <a href="https://www.openmainframeproject.org/projects/zowe/conformance" style="color:black !important;text-decoration:underline !important">Zowe Conformant</a> implementations and must comply with the <a href="https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide" style="color:black !important;text-decoration:underline !important">Zowe Conformant Brand Guidelines</a>.
-
-
 
 <table>
     <tr>
