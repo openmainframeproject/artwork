@@ -4,7 +4,7 @@
 
 ## Ambitus Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -29,7 +29,7 @@
 
 ## Atom language syntax highlighting for z/VM Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -54,7 +54,7 @@
 
 ## COBOL Programming Course Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -79,7 +79,7 @@
 
 ## Education Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -105,7 +105,7 @@
 
 ## Feilong Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -130,7 +130,7 @@
 
 ## GenevaERS Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -155,7 +155,7 @@
 
 ## Polycephaly Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -180,7 +180,7 @@
 
 ## Software Discovery Tool Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -205,7 +205,7 @@
 
 ## TerseDecompress Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -230,7 +230,7 @@
 
 ## Zorow Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
