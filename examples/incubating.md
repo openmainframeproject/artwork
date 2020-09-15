@@ -58,22 +58,23 @@
     <tr>
         <th></th>
         <th>PNG</th>
-        <th>SVG</th>
+        <th>EPS</th>
     </tr>
     <tr>
         <th>color</th>
+        
         <td><a href="../projects/cbt-tape/cbttape-color.png" download><img src="../projects/cbt-tape/cbttape-color.png" width="200"></a></td>
-        <td><a href="../projects/cbt-tape/cbttape-color.eps" download><img src="../projects/cbt-tape/cbttape-color.eps" width="200"></a></td>
+        <td><a href="../projects/cbt-tape/cbttape-color.eps" download><img src="../assets/img/eps.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
         <td><a href="../projects/cbt-tape/cbttape-black.png" download><img src="../projects/cbt-tape/cbttape-black.png" width="200"></a></td>
-        <td><a href="../projects/cbt-tape/cbttape-color.eps" download><img src="../projects/cbt-tape/cbttape-black.eps" width="200"></a></td>
+        <td><a href="../projects/cbt-tape/cbttape-color.eps" download><img src="../assets/img/eps.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
         <td><a href="../projects/cbt-tape/cbttape-white.png" download><img src="../projects/cbt-tape/cbttape-white.png" width="200"></a></td>
-        <td><a href="../projects/cbt-tape/cbttape-white.eps" download><img src="../projects/cbt-tape/cbttape-white.eps" width="200"></a></td>
+        <td><a href="../projects/cbt-tape/cbttape-white.eps" download><img src="../assets/img/eps.svg" width="200"></a></td>
     </tr>
 </table>
 
