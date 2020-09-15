@@ -47,6 +47,12 @@ permalink: /
 </div>
 </a>
 
+<a href="examples/incubating#cbt-tape-logos">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/cobol-programming-course/cbttape-color.png" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="examples/incubating#cobol-logos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/cobol-programming-course/cobol-programming-course-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
