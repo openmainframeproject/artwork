@@ -104,7 +104,7 @@ permalink: /
 
 <a href="examples/other#open-mainframe-project-logos">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="img/omp-logo.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="https://github.com/openmainframeproject/artwork/raw/master/openmainframeproject/openmainframeproject-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
