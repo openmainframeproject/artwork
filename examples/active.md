@@ -4,7 +4,7 @@
 
 ## ADE Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -28,7 +28,7 @@
 
 ## Mentorship Logos
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th>PNG</th>
@@ -56,7 +56,7 @@
 We provided community-approved artwork for both the Zowe logo and icon. Please note that the Zowe icon should only be used in the context where an icon is appropriate (such as within an application). All other cases should use the project logo (such as in Zowe promotion or article, presentations, blogs or other content). Please email <a href="mailto:info@openmainframeproject.org" style="color:black !important;text-decoration:underline !important">info@openmainframeproject.org</a> if you have questions on usage. Click <a href="https://www.openmainframeproject.org/communication-guidelines" style="color:black !important;text-decoration:underline !important">here</a> for the brand guidelines.
 
 
-<table>
+<table class="logos-table">
     <tr>
         <th></th>
         <th colspan="2">Logo</th>
