@@ -62,7 +62,6 @@
     </tr>
     <tr>
         <th>color</th>
-        
         <td><a href="../projects/cbt-tape/cbttape-color.png" download><img src="../projects/cbt-tape/cbttape-color.png" width="200"></a></td>
         <td><a href="../projects/cbt-tape/cbttape-color.eps" download><img src="../assets/img/eps.svg" width="200"></a></td>
     </tr>
