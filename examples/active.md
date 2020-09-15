@@ -12,17 +12,17 @@
     </tr>
     	<tr>
 	<th>color</th>
-        <td><a href="../projects/ade/ade-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ade/ade-color.png" width="200"></a></td>
-	<td><a href="../projects/ade/ade-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ade/ade-color.svg" width="200"></a></td></tr>
+        <td><a href="../projects/ade/ade-color.png" download><img src="../projects/ade/ade-color.png" width="200"></a></td>
+	<td><a href="../projects/ade/ade-color.svg" download><img src="../projects/ade/ade-color.svg" width="200"></a></td></tr>
 	<tr>
         <th>black</th>
-	<td><a href="../projects/ade/ade-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ade/ade-black.png" width="200"></a></td>
-	<td><a href="../projects/ade/ade-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ade/ade-black.svg" width="200"></a></td>
+	<td><a href="../projects/ade/ade-black.png" download><img src="../projects/ade/ade-black.png" width="200"></a></td>
+	<td><a href="../projects/ade/ade-black.svg" download><img src="../projects/ade/ade-black.svg" width="200"></a></td>
 	</tr>
 	<tr>
         <th>white</th>
-	<td><a href="../projects/ade/ade-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ade/ade-white.png" width="200"></a></td>
-	<td><a href="../projects/ade/ade-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/ade/ade-white.svg" width="200"></a></td>
+	<td><a href="../projects/ade/ade-white.png" download><img src="../projects/ade/ade-white.png" width="200"></a></td>
+	<td><a href="../projects/ade/ade-white.svg" download><img src="../projects/ade/ade-white.svg" width="200"></a></td>
 	</tr>
 	</table>
 
@@ -36,18 +36,18 @@
     </tr>
     <tr>
 	<th>color</th>
-        <td><a href="../projects/mentorship/mentorship-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/mentorship/mentorship-color.png" width="200"></a></td>
-        <td><a href="../projects/mentorship/mentorship-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/mentorship/mentorship-color.svg" width="200"></a></td>
+        <td><a href="../projects/mentorship/mentorship-color.png" download><img src="../projects/mentorship/mentorship-color.png" width="200"></a></td>
+        <td><a href="../projects/mentorship/mentorship-color.svg" download><img src="../projects/mentorship/mentorship-color.svg" width="200"></a></td>
         </tr>
         <tr>
         <th>black</th>
-        <td><a href="../projects/mentorship/mentorship-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/mentorship/mentorship-black.png" width="200"></a></td>
-        <td><a href="../projects/mentorship/mentorship-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/mentorship/mentorship-black.svg" width="200"></a></td>
+        <td><a href="../projects/mentorship/mentorship-black.png" download><img src="../projects/mentorship/mentorship-black.png" width="200"></a></td>
+        <td><a href="../projects/mentorship/mentorship-black.svg" download><img src="../projects/mentorship/mentorship-black.svg" width="200"></a></td>
         </tr>
 	<tr>
         <th>white</th>
-        <td><a href="../projects/mentorship/mentorship-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/mentorship/mentorship-white.png" width="200"></a></td>
-        <td><a href="../projects/mentorship/mentorship-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/mentorship/mentorship-white.svg" width="200"></a></td>
+        <td><a href="../projects/mentorship/mentorship-white.png" download><img src="../projects/mentorship/mentorship-white.png" width="200"></a></td>
+        <td><a href="../projects/mentorship/mentorship-white.svg" download><img src="../projects/mentorship/mentorship-white.svg" width="200"></a></td>
     </tr>
 </table>
 
@@ -71,24 +71,24 @@ We provided community-approved artwork for both the Zowe logo and icon. Please n
     </tr>
     <tr>
         <th>color</th>
-        <td><a href="../projects/zowe/zowe-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-color.png" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-color.svg" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-icon-color.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-icon-color.png" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-icon-color.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-icon-color.svg" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-color.png" download><img src="../projects/zowe/zowe-color.png" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-color.svg" download><img src="../projects/zowe/zowe-color.svg" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-icon-color.png" download><img src="../projects/zowe/zowe-icon-color.png" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-icon-color.svg" download><img src="../projects/zowe/zowe-icon-color.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><a href="../projects/zowe/zowe-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-white.png" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-white.svg" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-icon-white.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-icon-white.png" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-icon-white.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-icon-white.svg" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-white.png" download><img src="../projects/zowe/zowe-white.png" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-white.svg" download><img src="../projects/zowe/zowe-white.svg" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-icon-white.png" download><img src="../projects/zowe/zowe-icon-white.png" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-icon-white.svg" download><img src="../projects/zowe/zowe-icon-white.svg" width="200"></a></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><a href="../projects/zowe/zowe-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-black.png" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-black.svg" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-icon-black.png" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-icon-black.png" width="200"></a></td>
-        <td><a href="../projects/zowe/zowe-icon-black.svg" download="ade"><div class="iconbig"><img src="../img/icon1.svg" width="20"></div><img src="../projects/zowe/zowe-icon-black.svg" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-black.png" download><img src="../projects/zowe/zowe-black.png" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-black.svg" download><img src="../projects/zowe/zowe-black.svg" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-icon-black.png" download><img src="../projects/zowe/zowe-icon-black.png" width="200"></a></td>
+        <td><a href="../projects/zowe/zowe-icon-black.svg" download><img src="../projects/zowe/zowe-icon-black.svg" width="200"></a></td>
     </tr>
 </table>
 
