@@ -18,6 +18,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [GenevaERS](projects/genevaers)
   * [Polycephaly](projects/polycephaly)
   * [Software Discovery Tool](projects/software-discovery-tool)
+  * [Tessia](projects/tessia)
   * [TerseDecompress](projects/tersedecompress)
   * [Zorow](projects/zorow)
 * Working Groups
