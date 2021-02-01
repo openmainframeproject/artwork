@@ -116,6 +116,31 @@ permalink: /
 </div>
 </a>
 
+<h3>Badges</h3>
+
+<a href="badges/mentorship-mentee">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/badges/mentorship-mentee/color/mentorship-mentee-color.png" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
+<a href="badges/mentorship-mentor">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/badges/mentorship-mentor/color/mentorship-mentor-color.png" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
+<a href="badges/omp-ambassador">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/badges/omp-ambassador/color/omp-ambassador-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
+<a href="badges/zowe-committer">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/badges/zowe-committer/color/zowe-committer-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
 
 <h3>Other Logos</h3>
 
