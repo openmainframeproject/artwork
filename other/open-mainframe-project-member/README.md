@@ -1,3 +1,7 @@
+---
+description: Artwork for the Open Mainframe Project Members 
+---
+
 # Open Mainframe Project Member Logos
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*

@@ -1,3 +1,7 @@
+---
+description: Artwork for the Zowe Conformance Program 
+---
+
 # Zowe Conformant Logos
 
 The Zowe Conformant marks are only available for use with <a href="https://www.openmainframeproject.org/projects/zowe/conformance" style="color:black !important;text-decoration:underline !important">Zowe Conformant</a> implementations and must comply with the <a href="https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide" style="color:black !important;text-decoration:underline !important">Zowe Conformant Brand Guidelines</a>.

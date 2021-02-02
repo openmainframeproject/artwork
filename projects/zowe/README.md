@@ -1,3 +1,7 @@
+---
+description: Artwork for the Zowe project
+---
+
 ## Zowe
 
 <table class="logos-table">

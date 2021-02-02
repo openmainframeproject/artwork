@@ -1,6 +1,13 @@
-name: Open Mainframe Project Artwork
 title: Open Mainframe Project Artwork
 description: >-
-  Logos and artwork for Open Mainframe Project (OMP) and it's hosted projects
+  Logos and artwork for the Open Mainframe Project (OMP) and it's hosted projects
+
 # Settings
+favicon: other/open-mainframe-project/icon/color/open-mainframe-project-icon-color.svg 
+primary_logo: other/open-mainframe-project/horizontal/color/open-mainframe-project-horizontal-color.svg
+header_logo: other/open-mainframe-project/horizontal/white/open-mainframe-project-horizontal-white.svg  
 github_repo: https://github.com/openmainframeproject/artwork
+
+readme_index:
+  with_frontmatter: true
+
