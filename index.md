@@ -53,6 +53,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/cobol-check">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/cobol-check/color/cobol-check-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="projects/cobol-pc">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/cobol-pc/color/cobol-pc-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
