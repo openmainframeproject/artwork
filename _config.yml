@@ -7,6 +7,8 @@ favicon: other/open-mainframe-project/icon/color/open-mainframe-project-icon-col
 primary_logo: other/open-mainframe-project/horizontal/color/open-mainframe-project-horizontal-color.svg
 header_logo: other/open-mainframe-project/horizontal/white/open-mainframe-project-horizontal-white.svg  
 github_repo: https://github.com/openmainframeproject/artwork
+theme_color_1: 2b7de1 
+theme_color_2: 133e76
 
 readme_index:
   with_frontmatter: true
