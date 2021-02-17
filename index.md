@@ -65,6 +65,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/consolez">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/consolez/horizontal/color/consolez-horizontal-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="projects/feilong">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/feilong/color/feilong-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>

@@ -11,8 +11,9 @@ With many browsers, you can right click and copy the logo of your choice below. 
 * Incubating Projects
   * [Ambitus](projects/ambitus)
   * [Atom language syntax highlighting for z/VM](projects/atom)
-  * [CBT Tape](projects/cbt-tape)
+  * [COBOL Check](projects/cobol-check)
   * [COBOL Programming Course](projects/cobol-programming-course)
+  * [ConsoleZ](projects/consolez)
   * [Education](projects/mainframe-open-education)
   * [Feilong](projects/feilong)
   * [GenevaERS](projects/genevaers)
