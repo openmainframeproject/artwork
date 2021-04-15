@@ -2,7 +2,7 @@
 description: Artwork for the Zowe project
 ---
 
-## Zowe
+# Zowe
 
 <table class="logos-table">
 	<thead>

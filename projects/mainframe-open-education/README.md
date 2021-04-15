@@ -2,7 +2,7 @@
 description: Artwork for the Mainframe Open Education project
 ---
 
-## Mainframe Open Education
+# Mainframe Open Education
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 

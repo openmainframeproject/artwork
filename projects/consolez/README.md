@@ -2,7 +2,7 @@
 description: Artwork for the ConsoleZ project
 ---
 
-## ConsoleZ
+# ConsoleZ
 
 <table class="logos-table">
 	<thead>

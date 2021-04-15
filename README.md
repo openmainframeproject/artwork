@@ -6,13 +6,13 @@ With many browsers, you can right click and copy the logo of your choice below. 
 
 * Active Projects
   * [ADE](projects/ade)
+  * [COBOL Programming Course](projects/cobol-programming-course)
   * [Mentorship](projects/mentorship)
   * [Zowe](projects/zowe)
 * Incubating Projects
   * [Ambitus](projects/ambitus)
   * [Atom language syntax highlighting for z/VM](projects/atom)
   * [COBOL Check](projects/cobol-check)
-  * [COBOL Programming Course](projects/cobol-programming-course)
   * [ConsoleZ](projects/consolez)
   * [Education](projects/mainframe-open-education)
   * [Feilong](projects/feilong)
@@ -24,6 +24,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Zorow](projects/zorow)
 * Working Groups
   * [COBOL Working Group](working-groups/cobol-wg)
+  * [Open z/OS Enablement Working Group](working-groups/open-z-os-enablement-wg)
 * Other Open Mainframe Project Logos
   * [Open Mainframe Project](other/open-mainframe-project)
   * [Open Mainframe Project Member](other/open-mainframe-project-member)
