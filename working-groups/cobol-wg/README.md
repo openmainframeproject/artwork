@@ -17,18 +17,18 @@ description: Artwork for the COBOL Working Group
     <tbody>
 		<tr>
 			<th>color</th>
-			<td><a href="color/cobol-wg-color.png" download><img src="color/cobol-wg-color.png" width="200"></a></td>
-			<td><a href="color/cobol-wg-color.svg" download><img src="color/cobol-wg-color.svg" width="200"></a></td>
+			<td><a href="horizontal/color/cobol-wg-horizontal-color.png" download><img src="horizontal/color/cobol-wg-horizontal-color.png" width="200"></a></td>
+			<td><a href="horizontal/color/cobol-wg-horizontal-color.svg" download><img src="horizontal/color/cobol-wg-horizontal-color.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>white</th>
-			<td><a href="white/cobol-wg-white.png" download><img src="white/cobol-wg-white.png" width="200"></a></td>
-			<td><a href="white/cobol-wg-white.svg" download><img src="white/cobol-wg-white.svg" width="200"></a></td>
+			<td><a href="horizontal/white/cobol-wg-horizontal-white.png" download><img src="horizontal/white/cobol-wg-horizontal-white.png" width="200"></a></td>
+			<td><a href="horizontal/white/cobol-wg-horizontal-white.svg" download><img src="horizontal/white/cobol-wg-horizontal-white.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>black</th>
-			<td><a href="black/cobol-wg-black.png" download><img src="black/cobol-wg-black.png" width="200"></a></td>
-			<td><a href="black/cobol-wg-black.svg" download><img src="black/cobol-wg-black.svg" width="200"></a></td>
+			<td><a href="horizontal/black/cobol-wg-horizontal-black.png" download><img src="horizontal/black/cobol-wg-horizontal-black.png" width="200"></a></td>
+			<td><a href="horizontal/black/cobol-wg-horizontal-black.svg" download><img src="horizontal/black/cobol-wg-horizontal-black.svg" width="200"></a></td>
 		</tr>
 	</tbody>	
 </table>

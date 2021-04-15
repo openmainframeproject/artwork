@@ -2,7 +2,7 @@
 description: Artwork for the TerseDecompress project
 ---
 
-## TerseDecompress
+# TerseDecompress
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 

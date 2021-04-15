@@ -13,12 +13,18 @@ permalink: /
 <p>Any provided artwork that is an icon ( for example, those provided with <a href="/projects/zowe">Zowe</a> ) should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ). More details are in the <a href="https://www.openmainframeproject.org/branding-guidelines" rel="nofollow">Open Mainframe Project Branding Guidelines</a></p>
 <p>Questions? Please email <a href="mailto:info@openmainframeproject.org">info@openmainframeproject.org</a>.</p>
 
-    <h3>Active Projects</h3>
+<h3>Active Projects</h3>
 
 <a href="projects/ade">
 <div class="outer-wrapper">
 <div class="imagesquare">
 <div class="imagecontainer"><img src="{{ "/projects/ade/color/ade-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
+<a href="projects/cobol-pc">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/cobol-pc/color/cobol-pc-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
@@ -56,12 +62,6 @@ permalink: /
 <a href="projects/cobol-check">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/cobol-check/color/cobol-check-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-
-<a href="projects/cobol-pc">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/cobol-pc/color/cobol-pc-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
@@ -124,7 +124,13 @@ permalink: /
 
 <a href="working-groups/cobol-wg">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/working-groups/cobol-wg/color/cobol-wg-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/working-groups/cobol-wg/horizontal/color/cobol-wg-horizontal-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
+<a href="working-groups/open-z-os-enablement-wg">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/working-groups/open-z-os-enablement-wg/horizontal/color/open-z-os-enablement-wg-horizontal-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

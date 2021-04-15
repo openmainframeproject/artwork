@@ -2,7 +2,7 @@
 description: Artwork for the COBOL Programming Course project
 ---
 
-## COBOL Programming Course
+# COBOL Programming Course
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 

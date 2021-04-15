@@ -2,7 +2,7 @@
 description: Artwork for the ATOM Language Syntax Highlighting for z/VM project
 ---
 
-## ATOM Language Syntax Highlighting for z/VM
+# ATOM Language Syntax Highlighting for z/VM
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
