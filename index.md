@@ -28,6 +28,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/genevaers">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/genevaers/color/genevaers-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="projects/mentorship">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/mentorship/color/mentorship-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
@@ -74,12 +80,6 @@ permalink: /
 <a href="projects/feilong">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/feilong/color/feilong-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-
-<a href="projects/genevaers">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/projects/genevaers/color/genevaers-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
