@@ -7,6 +7,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
 * Active Projects
   * [ADE](projects/ade)
   * [COBOL Programming Course](projects/cobol-programming-course)
+  * [GenevaERS](projects/genevaers)
   * [Mentorship](projects/mentorship)
   * [Zowe](projects/zowe)
 * Incubating Projects
@@ -16,7 +17,6 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [ConsoleZ](projects/consolez)
   * [Education](projects/mainframe-open-education)
   * [Feilong](projects/feilong)
-  * [GenevaERS](projects/genevaers)
   * [Polycephaly](projects/polycephaly)
   * [Software Discovery Tool](projects/software-discovery-tool)
   * [Tessia](projects/tessia)
