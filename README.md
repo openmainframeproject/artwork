@@ -32,10 +32,9 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [Open Mainframe Summit](other/open-mainframe-summit)
   * [Linux Foundation Member](other/linux-foundation-member)
   * [Zowe Conformant](other/zowe-conformant)
+  * [Zowe Conformant Support Provider](other/zowe-conformant-support-provider)
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at https://github.com/openmainframeproject/artwork/blob/master/LICENSE.md.
-
-The [Zowe Conformant](other/zowe-conformant) marks are only available for use with [Zowe Conformant](https://www.openmainframeproject.org/projects/zowe/conformance) implementations and must comply with the [Zowe Conformant Brand Guidelines](https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide).
 
 Any provided artwork that is an icon ( for example, those provided with [Zowe](projects/zowe) ) should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ). More details are in the [Open Mainframe Project Branding Guidelines](https://www.openmainframeproject.org/branding-guidelines)
 

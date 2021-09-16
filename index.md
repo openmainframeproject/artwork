@@ -9,7 +9,6 @@ permalink: /
     <h2>Open Mainframe Project Logos</h2>
     
     <p>Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage" rel="nofollow">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>.</p>
-<p>The <a href="other/zowe-conformant">Zowe Conformant</a> marks are only available for use with <a href="https://www.openmainframeproject.org/projects/zowe/conformance" rel="nofollow">Zowe Conformant</a> implementations and must comply with the <a href="https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide" rel="nofollow">Zowe Conformant Brand Guidelines</a>.</p>
 <p>Any provided artwork that is an icon ( for example, those provided with <a href="/projects/zowe">Zowe</a> ) should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ). More details are in the <a href="https://www.openmainframeproject.org/branding-guidelines" rel="nofollow">Open Mainframe Project Branding Guidelines</a></p>
 <p>Questions? Please email <a href="mailto:info@openmainframeproject.org">info@openmainframeproject.org</a>.</p>
 
@@ -192,6 +191,11 @@ permalink: /
 </div>
 </a>
 
+<a href="other/zowe-conformant-support-provider">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="{{ "/other/zowe-conformant-support-provider/zowev1/comprehensive/color/zowe-conformant-support-provider-zowev1-comprehensive-color.svg" | relative_url }}"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
 
 </div>
 </section>
