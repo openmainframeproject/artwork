@@ -8,7 +8,32 @@ The Zowe Conformant Support Provider marks are only available for use with <a hr
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
-## Zowe Conformant Support Provider Comprehensive ZOWE V1
+## Zowe Conformant Support Provider
+
+<table class="logos-table">
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev1/general/color/zowe-conformant-support-provider-zowev1-general-color.png" width="200"></td>
+        <td><img src="zowev1/general/color/zowe-conformant-support-provider-zowev1-general-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev1/general/black/zowe-conformant-support-provider-zowev1-general-black.png" width="200"></td>
+        <td><img src="zowev1/general/black/zowe-conformant-support-provider-zowev1-general-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev1/general/white/zowe-conformant-support-provider-zowev1-general-white.png" width="200"></td>
+        <td><img src="zowev1/general/white/zowe-conformant-support-provider-zowev1-general-white.svg" width="200"></td>
+    </tr>
+</table>
+
+## Comprehensive ZOWE V1
 
 <table class="logos-table">
     <tr>
