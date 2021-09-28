@@ -109,6 +109,32 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
 </table>
 <br>
 
+### Explorer for VS Code ZOWE V1
+
+<table class="logos-table">
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev1/explorer/color/zowe-conformant-zowev1-explorer-color.png" width="200"></td>
+        <td><img src="zowev1/explorer/color/zowe-conformant-zowev1-explorer-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev1/explorer/black/zowe-conformant-zowev1-explorer-black.png" width="200"></td>
+        <td><img src="zowev1/explorer/black/zowe-conformant-zowev1-explorer-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev1/explorer/white/zowe-conformant-zowev1-explorer-white.png" width="200"></td>
+        <td><img src="zowev1/explorer/white/zowe-conformant-zowev1-explorer-white.svg" width="200"></td>
+    </tr>
+</table>
+<br>
+
 ## Zowe Conformant 2019
 
 <table class="logos-table">
