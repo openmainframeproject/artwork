@@ -1,5 +1,9 @@
 ---
 description: Artwork for Linux Foundation Members 
+title: The Linux Foundation Member Logos
+level: Other Logos
+featured_image: platinum/lf_mem_plat.svg
+order: 99
 ---
 
 # Linux Foundation Member Logos

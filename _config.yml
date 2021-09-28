@@ -9,6 +9,13 @@ header_logo: other/open-mainframe-project/horizontal/white/open-mainframe-projec
 github_repo: https://github.com/openmainframeproject/artwork
 theme_color_1: 2b7de1 
 theme_color_2: 133e76
+trademark_text: Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage" rel="nofollow">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>.</p><p>The <a href="other/zowe-conformant">Zowe Conformant</a> marks are only available for use with <a href="https://www.openmainframeproject.org/projects/zowe/conformance" rel="nofollow">Zowe Conformant</a> implementations and must comply with the <a href="https://www.openmainframeproject.org/projects/zowe/conformance/branding-guide" rel="nofollow">Zowe Conformant Brand Guidelines</a>.</p><p>Any provided artwork that is an icon ( for example, those provided with <a href="/projects/zowe">Zowe</a> ) should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ). More details are in the <a href="https://www.openmainframeproject.org/branding-guidelines" rel="nofollow">Open Mainframe Project Branding Guidelines</a></p><p>Questions? Please email <a href="mailto:info@openmainframeproject.org">info@openmainframeproject.org</a>.
+logo_categories:
+  - Active Projects
+  - Incubating Projects
+  - Working Groups
+  - Badges
+  - Other Logos
 
 readme_index:
   with_frontmatter: true

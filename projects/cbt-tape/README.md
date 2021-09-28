@@ -1,5 +1,8 @@
 ---
 description: Artwork for the CBT Tape project
+title: CBT Tape 
+level: Incubating Projects
+featured_image: color/cbt-tape-color.png
 ---
 
 # CBT Tape

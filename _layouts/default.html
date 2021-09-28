@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <link rel="image_src" href="{% if page.primary_logo %}{{ page.primary_logo | relative_url }}{% else %}{{ site.primary_logo | relative_url }}{% endif %}">
+  <link rel="image_src" href="{% if page.featured_image %}{{ page.featured_image | relative_url }}{% else %}{{ site.featured_image | relative_url }}{% endif %}">
   <link rel="shortcut icon" href="{{ site.favicon | relative_url }}">
   <link rel="stylesheet" type="text/css" href="{{ "/assets/css/style.css" | relative_url }}">
   <link rel="stylesheet" type="text/css" href="{{ "/assets/css/style2.css" | relative_url }}">
@@ -19,7 +19,7 @@
 <div class="page-header">
   <div class="container">
     <div class="text-center">
-      <a href="{{ "/" | relative_url}}"><img class="logo" src="{{ site.header_logo | relative_url }}" alt="OMP logos"></a>
+      <a href="{{ "/" | relative_url}}"><img class="logo" src="{{ site.header_logo | relative_url }}" alt="Project Logo"></a>
     </div>
   </div>
 
@@ -32,8 +32,8 @@
 
 <a href="https://www.netlify.com">
   <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
-</a>  
-
+</a> 
+  
 </body>
 
 </html>

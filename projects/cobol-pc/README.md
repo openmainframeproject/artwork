@@ -1,37 +1,7 @@
 ---
 description: Artwork for the COBOL Programming Course project
+title: COBOL Programming Course
+level: Active Projects
+featured_image: horizontal/color/cobol-pc-horizontal-color.svg
+layout: logos
 ---
-
-# COBOL Programming Course
-
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
-<table class="logos-table">
-	<thead>
-		<tr>
-			<th></th>
-			<th>PNG</th>
-			<th>SVG</th>
-		</tr>
-	</thead>	
-    <tbody>
-		<tr>
-			<th>color</th>
-			<td><a href="color/cobol-pc-color.png" download><img src="color/cobol-pc-color.png" width="200"></a></td>
-			<td><a href="color/cobol-pc-color.svg" download><img src="color/cobol-pc-color.svg" width="200"></a></td>
-		</tr>
-		<tr>
-			<th>white</th>
-			<td><a href="white/cobol-pc-white.png" download><img src="white/cobol-pc-white.png" width="200"></a></td>
-			<td><a href="white/cobol-pc-white.svg" download><img src="white/cobol-pc-white.svg" width="200"></a></td>
-		</tr>
-		<tr>
-			<th>black</th>
-			<td><a href="black/cobol-pc-black.png" download><img src="black/cobol-pc-black.png" width="200"></a></td>
-			<td><a href="black/cobol-pc-black.svg" download><img src="black/cobol-pc-black.svg" width="200"></a></td>
-		</tr>
-	</tbody>	
-</table>
-
-
-

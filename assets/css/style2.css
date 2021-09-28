@@ -20,10 +20,6 @@ section {
   background-size:cover;
 }
 
-section a {
-  color: blue;
-}
-
 .container {
   width:100% !important;
 }
@@ -64,6 +60,10 @@ a {
   text-decoration:none;
 }
 
+section a {
+  color: blue;
+}
+
 h1 {
     font-size: 2em;
     margin-top: 3%;
@@ -100,7 +100,7 @@ td img {
   padding:20px;
 }
 
-tbody tr:nth-child(even) {
+tbody tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
@@ -111,7 +111,7 @@ table {
 }
 
 table.logos-table tbody tr td {
-  background-image: url('/assets/img/download-icon.svg');
+  background-image: url('https://image.flaticon.com/icons/svg/60/60721.svg');
   background-size: 15px 15px;
   background-repeat: no-repeat;
   background-position: 5px 5px;
@@ -129,6 +129,7 @@ table.logos-table tbody tr td {
 .iconbig {
   width: 4%;
   float: right;
+  opacity: 0.4;
   position:absolute;
   top:4%;
   right:4%;
@@ -138,7 +139,11 @@ table.logos-table tbody tr td {
   width:100%;
   padding:10%;
   display: block;
-
+  max-height: 150px;
+  max-width: 250px;
+  height: auto;
+  width: auto;
+  margin: auto;
 }
 
 em {
@@ -164,16 +169,16 @@ em {
 }
 
 .logo {
-  margin-top:2%;
-  width:45%;
-  margin-bottom:0%;
+  margin-top:1%;
+  width:50%;
+  margin-bottom:1%;
 }
 
 .logo img {
   width:100%;
 }
 
-.logos {
+.logos:not(body.logos) {
   padding-left:10%;
   padding-right:10%;
   padding-top:2%;
@@ -187,7 +192,7 @@ button {
   color: white;
   padding: 10px 32px;
   text-align: center;
-  margin-top:0%;
+  margin-top:2%;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
@@ -201,7 +206,7 @@ button {
     margin-bottom:5%;
   }
 
-  .logos {
+  .logos:not(body.logos)  {
     padding-left:5%;
     padding-right:5%;
     padding-top:2%;
