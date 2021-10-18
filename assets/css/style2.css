@@ -17,6 +17,7 @@ html {
 }
 
 section {
+  background:url("../img/aswf_bg.jpg");
   background-size:cover;
 }
 
@@ -104,13 +105,17 @@ tbody tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
+tbody tr:nth-child(even) {
+  background-color: #c2c2c2;
+}
+
 table {
   width:65%;
   margin-bottom:5%;
   margin-top:2%;
 }
 
-table.logos-table tbody tr td {
+table.logos-table tbody tr td:not(.empty) {
   background-image: url('https://image.flaticon.com/icons/svg/60/60721.svg');
   background-size: 15px 15px;
   background-repeat: no-repeat;
