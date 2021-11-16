@@ -9,5 +9,5 @@ order: 1
 
 ## Open Mainframe Project Presentation Template
 
-<a href="/other/openmainframeproject/openmainframeproject-presentation-template.pptx" style="color:black !important;text-decoration:underline !important">Open Mainframe Project Presentation Template - Powerpoint</a>
+<a href="open-mainframe-project-presentation-template.pptx" style="color:black !important;text-decoration:underline !important">Open Mainframe Project Presentation Template - Powerpoint</a>
 
