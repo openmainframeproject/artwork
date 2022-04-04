@@ -40,6 +40,153 @@ The Zowe Conformant Support Provider marks are only available for use with <a hr
     </tbody>
 </table>
 
+## Comprehensive ZOWE V2
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev2/comprehensive/black/zowe-conformant-support-provider-zowev2-comprehensive-black.png" width="200"></td>
+        <td><img src="zowev2/comprehensive/black/zowe-conformant-support-provider-zowev2-comprehensive-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev2/comprehensive/color/zowe-conformant-support-provider-zowev2-comprehensive-color.png" width="200"></td>
+        <td><img src="zowev2/comprehensive/color/zowe-conformant-support-provider-zowev2-comprehensive-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev2/comprehensive/white/zowe-conformant-support-provider-zowev2-comprehensive-white.png" width="200"></td>
+        <td><img src="zowev2/comprehensive/white/zowe-conformant-support-provider-zowev2-comprehensive-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+
+### API Mediation Layer ZOWE V2
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev2/apimediation/black/zowe-conformant-support-provider-zowev2-apimediation-black.png" width="200"></td>
+        <td><img src="zowev2/apimediation/black/zowe-conformant-support-provider-zowev2-apimediation-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev2/apimediation/color/zowe-conformant-support-provider-zowev2-apimediation-color.png" width="200"></td>
+        <td><img src="zowev2/apimediation/color/zowe-conformant-support-provider-zowev2-apimediation-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev2/apimediation/white/zowe-conformant-support-provider-zowev2-apimediation-white.png" width="200"></td>
+        <td><img src="zowev2/apimediation/white/zowe-conformant-support-provider-zowev2-apimediation-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+
+### App Framework ZOWE V2
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev2/appframework/black/zowe-conformant-support-provider-zowev2-appframework-black.png" width="200"></td>
+        <td><img src="zowev2/appframework/black/zowe-conformant-support-provider-zowev2-appframework-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev2/appframework/color/zowe-conformant-support-provider-zowev2-appframework-color.png" width="200"></td>
+        <td><img src="zowev2/appframework/color/zowe-conformant-support-provider-zowev2-appframework-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev2/appframework/white/zowe-conformant-support-provider-zowev2-appframework-white.png" width="200"></td>
+        <td><img src="zowev2/appframework/white/zowe-conformant-support-provider-zowev2-appframework-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+
+### CLI ZOWE V2
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev2/cli/black/zowe-conformant-support-provider-zowev2-cli-black.png" width="200"></td>
+        <td><img src="zowev2/cli/black/zowe-conformant-support-provider-zowev2-cli-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev2/cli/color/zowe-conformant-support-provider-zowev2-cli-color.png" width="200"></td>
+        <td><img src="zowev2/cli/color/zowe-conformant-support-provider-zowev2-cli-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev2/cli/white/zowe-conformant-support-provider-zowev2-cli-white.png" width="200"></td>
+        <td><img src="zowev2/cli/white/zowe-conformant-support-provider-zowev2-cli-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br>
+
+### Explorer for VS Code ZOWE V2
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev2/explorer/black/zowe-conformant-support-provider-zowev2-explorer-black.png" width="200"></td>
+        <td><img src="zowev2/explorer/black/zowe-conformant-support-provider-zowev2-explorer-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev2/explorer/color/zowe-conformant-support-provider-zowev2-explorer-color.png" width="200"></td>
+        <td><img src="zowev2/explorer/color/zowe-conformant-support-provider-zowev2-explorer-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev2/explorer/white/zowe-conformant-support-provider-zowev2-explorer-white.png" width="200"></td>
+        <td><img src="zowev2/explorer/white/zowe-conformant-support-provider-zowev2-explorer-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br>
+
 ## Comprehensive ZOWE V1
 
 <table class="logos-table">
