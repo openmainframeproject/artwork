@@ -5,3 +5,7 @@ level: Active Projects
 featured_image: horizontal/color/zowe-horizontal-color.svg
 layout: logos
 ---
+
+## Presentation Template
+
+[Zowe Presentation Template](zowe-presentation-template.pptx)
