@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 93.733803 93.728004"
+   version="1.1"
+   sodipodi:docname="ade-icon-white.svg"
+   width="93.733803"
+   height="93.728004"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="ade-icon-white.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview402"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.1454545"
+     inkscape:cx="168.49576"
+     inkscape:cy="47.076271"
+     inkscape:window-width="1482"
+     inkscape:window-height="480"
+     inkscape:window-x="1768"
+     inkscape:window-y="455"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs343">
+    <style
+       id="style341">.cls-1,.cls-2{fill:#fff;}.cls-2{opacity:0.15;}</style>
+  </defs>
+  <title
+     id="title345">OMP_ProjectLogos</title>
+  <path
+     class="cls-1"
+     d="M 54.943005,1.5121216e-6 A 38.79,38.79 0 0 0 23.363005,61.330002 l 1,-1 a 37.35,37.35 0 1 1 9,9 l -1,1 A 38.79,38.79 0 1 0 54.943005,1.5121216e-6 Z"
+     id="path393" />
+  <path
+     class="cls-1"
+     d="m 26.223005,62.660002 -1,1 -24.2199998,24.21 a 3.4330052,3.4330052 0 0 0 4.86,4.85 l 24.1799998,-24.17 1,-1 a 37.74,37.74 0 0 1 -4.82,-4.89 z"
+     id="path395" />
+  <path
+     class="cls-1"
+     d="m 54.943005,73.190002 a 34.4,34.4 0 1 0 -34.4,-34.39 34.43,34.43 0 0 0 34.4,34.39 z m 0,-64.4900005 a 30.1,30.1 0 1 1 -30.1,30.1000005 30.1,30.1 0 0 1 30.1,-30.1000005 z"
+     id="path397" />
+  <path
+     class="cls-2"
+     d="m 54.943005,68.870002 a 30.1,30.1 0 1 0 -30.1,-30.1 30.1,30.1 0 0 0 30.1,30.1 z m -2.07,-55.46 a 26.83,26.83 0 0 1 27.76,27.76 1,1 0 0 1 -1,1 v 0 a 1,1 0 0 1 -1,-1 24.82,24.82 0 0 0 -25.69,-25.76 1,1 0 0 1 -1,-1 1,1 0 0 1 0.93,-1 z"
+     id="path399" />
+  <metadata
+     id="metadata490">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>OMP_ProjectLogos</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
