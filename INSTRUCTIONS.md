@@ -10,33 +10,33 @@
 <project name>
   - horizontal
     - color
-      <project name>-horizontal-color.svg
+      <project name>-horizontal-color.png
       <project name>-horizontal-color.svg
     - white
-      <project name>-horizontal-white.svg
+      <project name>-horizontal-white.png
       <project name>-horizontal-white.svg
     - black
-      <project name>-horizontal-black.svg
+      <project name>-horizontal-black.png
       <project name>-horizontal-black.svg
   - stacked
     - color
-      <project name>-stacked-color.svg
+      <project name>-stacked-color.png
       <project name>-stacked-color.svg
     - white
-      <project name>-stacked-white.svg
+      <project name>-stacked-white.png
       <project name>-stacked-white.svg
     - black
-      <project name>-stacked-black.svg
+      <project name>-stacked-black.png
       <project name>-stacked-black.svg
   - icon
     - color
-      <project name>-icon-color.svg
+      <project name>-icon-color.png
       <project name>-icon-color.svg
     - white
-      <project name>-icon-white.svg
+      <project name>-icon-white.png
       <project name>-icon-white.svg
     - black
-      <project name>-icon-black.svg
+      <project name>-icon-black.png
       <project name>-icon-black.svg
 ```
         
