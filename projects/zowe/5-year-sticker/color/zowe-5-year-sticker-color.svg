@@ -8,7 +8,10 @@
    height="378"
    viewBox="0 0 378 378"
    sodipodi:docname="zowe-5-year-sticker-color.svg"
-   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:export-filename="zowe-5-year-sticker-color.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -152,10 +155,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.62433862"
-     inkscape:cx="202.61441"
-     inkscape:cy="202.61441"
-     inkscape:window-width="1346"
+     inkscape:zoom="1.4047619"
+     inkscape:cx="202.88136"
+     inkscape:cy="202.88136"
+     inkscape:window-width="1352"
      inkscape:window-height="769"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -166,58 +169,21 @@
        y="0"
        id="page331"
        width="378"
-       height="378" />
+       height="378"
+       margin="0"
+       bleed="0" />
   </sodipodi:namedview>
   <g
      id="g333"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
      transform="matrix(0.31999998,0,0,0.31999998,0,2.3069333e-5)">
-    <g
-       id="g335">
-      <g
-         id="g337"
-         clip-path="url(#clipPath341)">
-        <g
-           id="g343"
-           transform="scale(3.1305113)">
-          <path
-             d="M 0,0 H 378 V 388 H 0 Z"
-             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path345" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g347">
-      <g
-         id="g349"
-         clip-path="url(#clipPath353)">
-        <g
-           id="g355"
-           transform="scale(3.1305113)">
-          <path
-             d="M 0,0 H 378 V 378 H 0 Z"
-             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path357" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g359">
-      <g
-         id="g361"
-         clip-path="url(#clipPath365)">
-        <g
-           id="g367"
-           transform="scale(3.1305113)">
-          <path
-             d="M 0,0 H 378 V 378 H 0 Z"
-             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path369" />
-        </g>
-      </g>
-    </g>
+    <circle
+       style="opacity:0.921914;fill:#ffffff;stroke:#575656;stroke-width:4.32771"
+       id="path1"
+       cx="591.7373"
+       cy="591.73724"
+       r="462.11057" />
     <g
        id="g371">
       <g
