@@ -9,6 +9,7 @@ header_logo: other/open-mainframe-project/horizontal/white/open-mainframe-projec
 github_repo: https://github.com/openmainframeproject/artwork
 theme_color_1: 2b7de1 
 theme_color_2: 133e76
+# categories of logos, for grouping on main logo page. Must match level: in front matter of each logoset README.md file
 logo_categories:
   - Active Projects
   - Incubating Projects
@@ -19,6 +20,7 @@ logo_categories:
   - Other Logos
 ga_tracking_id: 359859504
 
+# don't touch ;-)  
 readme_index:
   with_frontmatter: true
 plugins:
