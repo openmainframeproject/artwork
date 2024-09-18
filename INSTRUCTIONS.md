@@ -2,9 +2,9 @@
 
 `<project full name>` is the display name for the project ( e.g. 'Zowe' )
 
-`<project name>` is the name of the project in the filesystem ( e.g. 'zowe' )
+`<project name>` is the project slug ( e.g. 'zowe' )
 
-1. Add a new directory under `projects` with the artwork. Artwork directory structure should map as follows...
+1. Add a new directory under `projects` with the artwork. Artwork directory structure should map as follows ( and all in lowercase )...
 
 ```
 <project name>
