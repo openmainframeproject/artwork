@@ -189,7 +189,7 @@ The Zowe Conformant marks are only available for use with <a href="https://www.o
     </tr>
     </tbody>
 </table>
-</br />
+<br />
 
 ### API Mediation Layer ZOWE V2
 
