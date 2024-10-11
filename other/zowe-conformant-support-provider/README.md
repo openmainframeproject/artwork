@@ -39,6 +39,217 @@ The Zowe Conformant Support Provider marks are only available for use with <a hr
     </tr>
     </tbody>
 </table>
+<br />
+
+## Comprehensive ZOWE V3
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev3/comprehensive/black/zowe-conformant-support-provider-zowev3-comprehensive-black.png" width="200"></td>
+        <td><img src="zowev3/comprehensive/black/zowe-conformant-support-provider-zowev3-comprehensive-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev3/comprehensive/color/zowe-conformant-support-provider-zowev3-comprehensive-color.png" width="200"></td>
+        <td><img src="zowev3/comprehensive/color/zowe-conformant-support-provider-zowev3-comprehensive-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev3/comprehensive/white/zowe-conformant-support-provider-zowev3-comprehensive-white.png" width="200"></td>
+        <td><img src="zowev3/comprehensive/white/zowe-conformant-support-provider-zowev3-comprehensive-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br />
+
+### API Mediation Layer ZOWE V3
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev3/apimediation/black/zowe-conformant-support-provider-zowev3-apimediation-black.png" width="200"></td>
+        <td><img src="zowev3/apimediation/black/zowe-conformant-support-provider-zowev3-apimediation-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev3/apimediation/color/zowe-conformant-support-provider-zowev3-apimediation-color.png" width="200"></td>
+        <td><img src="zowev3/apimediation/color/zowe-conformant-support-provider-zowev3-apimediation-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev3/apimediation/white/zowe-conformant-support-provider-zowev3-apimediation-white.png" width="200"></td>
+        <td><img src="zowev3/apimediation/white/zowe-conformant-support-provider-zowev3-apimediation-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br />
+
+### App Framework ZOWE V3
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev3/appframework/black/zowe-conformant-support-provider-zowev3-appframework-black.png" width="200"></td>
+        <td><img src="zowev3/appframework/black/zowe-conformant-support-provider-zowev3-appframework-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev3/appframework/color/zowe-conformant-support-provider-zowev3-appframework-color.png" width="200"></td>
+        <td><img src="zowev3/appframework/color/zowe-conformant-support-provider-zowev3-appframework-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev3/appframework/white/zowe-conformant-support-provider-zowev3-appframework-white.png" width="200"></td>
+        <td><img src="zowev3/appframework/white/zowe-conformant-support-provider-zowev3-appframework-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br />
+
+### CLI ZOWE V3
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev3/cli/black/zowe-conformant-support-provider-zowev3-cli-black.png" width="200"></td>
+        <td><img src="zowev3/cli/black/zowe-conformant-support-provider-zowev3-cli-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev3/cli/color/zowe-conformant-support-provider-zowev3-cli-color.png" width="200"></td>
+        <td><img src="zowev3/cli/color/zowe-conformant-support-provider-zowev3-cli-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev3/cli/white/zowe-conformant-support-provider-zowev3-cli-white.png" width="200"></td>
+        <td><img src="zowev3/cli/white/zowe-conformant-support-provider-zowev3-cli-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br />
+
+### Explorer for VS Code ZOWE V3
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev3/explorer-vs-code/black/zowe-conformant-support-provider-zowev3-explorer-vs-code-black.png" width="200"></td>
+        <td><img src="zowev3/explorer-vs-code/black/zowe-conformant-support-provider-zowev3-explorer-vs-code-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev3/explorer-vs-code/color/zowe-conformant-support-provider-zowev3-explorer-vs-code-color.png" width="200"></td>
+        <td><img src="zowev3/explorer-vs-code/color/zowe-conformant-support-provider-zowev3-explorer-vs-code-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev3/explorer-vs-code/white/zowe-conformant-support-provider-zowev3-explorer-vs-code-white.png" width="200"></td>
+        <td><img src="zowev3/explorer-vs-code/white/zowe-conformant-support-provider-zowev3-explorer-vs-code-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br />
+
+### Explorer for IntelliJ ZOWE V3
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev3/explorer-intellij/black/zowe-conformant-support-provider-zowev3-explorer-intellij-black.png" width="200"></td>
+        <td><img src="zowev3/explorer-intellij/black/zowe-conformant-support-provider-zowev3-explorer-intellij-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev3/explorer-intellij/color/zowe-conformant-support-provider-zowev3-explorer-intellij-color.png" width="200"></td>
+        <td><img src="zowev3/explorer-intellij/color/zowe-conformant-support-provider-zowev3-explorer-intellij-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev3/explorer-intellij/white/zowe-conformant-support-provider-zowev3-explorer-intellij-white.png" width="200"></td>
+        <td><img src="zowev3/explorer-intellij/white/zowe-conformant-support-provider-zowev3-explorer-intellij-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br />
+
+### Client SDK ZOWE V3
+
+<table class="logos-table">
+    <thead>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>black</th>
+        <td><img src="zowev3/client-sdk/black/zowe-conformant-support-provider-zowev3-client-sdk-black.png" width="200"></td>
+        <td><img src="zowev3/client-sdk/black/zowe-conformant-support-provider-zowev3-client-sdk-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="zowev3/client-sdk/color/zowe-conformant-support-provider-zowev3-client-sdk-color.png" width="200"></td>
+        <td><img src="zowev3/client-sdk/color/zowe-conformant-support-provider-zowev3-client-sdk-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="zowev3/client-sdk/white/zowe-conformant-support-provider-zowev3-client-sdk-white.png" width="200"></td>
+        <td><img src="zowev3/client-sdk/white/zowe-conformant-support-provider-zowev3-client-sdk-white.svg" width="200"></td>
+    </tr>
+    </tbody>
+</table>
+<br />
 
 ## Comprehensive ZOWE V2
 
