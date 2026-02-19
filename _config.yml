@@ -11,16 +11,39 @@ theme_color_1: 2b7de1
 theme_color_2: 133e76
 # categories of logos, for grouping on main logo page. Must match level: in front matter of each logoset README.md file
 logo_categories:
-  - Active Projects
-  - Incubating Projects
-  - Sandbox Projects
+  - Projects
   - Working Groups
-  - Emeritus Projects
   - Badges
   - Other Logos
 ga_tracking_id: 359859504
 
-# don't touch ;-)  
+defaults:
+  - scope:
+      path: "other"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Other Logos"
+  - scope:
+      path: "badges"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Badges"
+  - scope:
+      path: "projects"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Projects"
+  - scope:
+      path: "working-groups"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Working Groups"
+
+# don't touch ;-)
 readme_index:
   with_frontmatter: true
 plugins:
