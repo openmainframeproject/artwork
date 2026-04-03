@@ -8,4 +8,4 @@ Use of any trademark or logo is subject to the trademark policy available at htt
 
 Any provided artwork that is an icon ( for example, those provided with [Zowe](projects/zowe) ) should only be used in the context where an icon is appropriate ( such as within an application ). All other cases should use the project logo ( such as in project promotion or literature, presentations, or other content ). More details are in the [Open Mainframe Project Branding Guidelines](https://www.openmainframeproject.org/branding-guidelines)
 
-Questions? Please email [info@openmainframeproject.org](mailto:info@openmainframeproject.org).
+Questions? Please email [support@openmainframeproject.org](mailto:support@openmainframeproject.org).
