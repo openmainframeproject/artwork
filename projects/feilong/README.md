@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/feilong-primary-color.svg
 title: Feilong
-featured_image: horizontal/color/feilong-horizontal-color.svg
 ---

@@ -1,6 +1,6 @@
 ---
+featured_image: primary/color/zowe-primary-color.svg
 title: Zowe
-featured_image: horizontal/color/zowe-horizontal-color.svg
 ---
 
 ## Presentation Template

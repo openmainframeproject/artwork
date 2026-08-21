@@ -1,4 +1,4 @@
 ---
-title: galasa
-featured_image: horizontal/color/galasa-horizontal-color.svg
+featured_image: primary/color/galasa-primary-color.svg
+title: Galasa
 ---

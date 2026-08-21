@@ -1,4 +1,4 @@
 ---
-title: zopen
-featured_image: horizontal/color/zopen-horizontal-color.svg
+featured_image: primary/color/zopen-primary-color.svg
+title: Zopen
 ---
