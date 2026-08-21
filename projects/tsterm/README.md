@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/tsterm-primary-color.svg
 title: TSTerm
-featured_image: horizontal/color/tsterm-horizontal-color.svg
 ---

@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/zvm-community-tools-primary-color.svg
 title: z/VM Community Tools
-featured_image: horizontal/color/zvm-community-tools-horizontal-color.svg
 ---

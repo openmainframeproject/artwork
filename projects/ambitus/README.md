@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/ambitus-primary-color.svg
 title: Ambitus
-featured_image: horizontal/color/ambitus-horizontal-color.svg
 ---

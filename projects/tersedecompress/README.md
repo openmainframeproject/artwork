@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/tersedecompress-primary-color.svg
 title: TerseDecompress
-featured_image: horizontal/color/tersedecompress-horizontal-color.svg
 ---
