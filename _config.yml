@@ -3,7 +3,6 @@ description: >-
   Logos and artwork for the Open Mainframe Project (OMP) and it's hosted projects
 
 # Settings
-favicon: other/open-mainframe-project/icon/color/open-mainframe-project-icon-color.svg 
 primary_logo: other/open-mainframe-project/horizontal/color/open-mainframe-project-horizontal-color.svg
 header_logo: other/open-mainframe-project/horizontal/white/open-mainframe-project-horizontal-white.svg  
 github_repo: https://github.com/openmainframeproject/artwork
@@ -25,17 +24,17 @@ defaults:
       layout: "logos"
       level: "Other Logos"
   - scope:
-      path: "badges"     # directory (relative to site root)
-      type: "pages"    # usually "pages"
-    values:
-      layout: "logos"
-      level: "Badges"
-  - scope:
       path: "projects"     # directory (relative to site root)
       type: "pages"    # usually "pages"
     values:
       layout: "logos"
       level: "Projects"
+  - scope:
+      path: "badges"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Badges"
   - scope:
       path: "working-groups"     # directory (relative to site root)
       type: "pages"    # usually "pages"
@@ -49,3 +48,9 @@ readme_index:
 plugins:
   - jekyll-remote-theme
 remote_theme: jmertic/artwork-template
+exclude:
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - lfess-artwork
