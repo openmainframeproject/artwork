@@ -1,5 +1,5 @@
 ---
 title: ZOROW
-level: Emeritus Projects
 featured_image: horizontal/color/zorow-horizontal-color.svg
+level: Archived
 ---
