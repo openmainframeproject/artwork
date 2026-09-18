@@ -1,8 +1,7 @@
 ---
+project: Zowe
 featured_image: primary/color/zowe-primary-color.svg
-title: Zowe
 ---
-
 ## Presentation Template
 
 [Zowe Presentation Template](zowe-presentation-template.pptx)
